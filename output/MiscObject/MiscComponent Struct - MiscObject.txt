@@ -1,4 +1,4 @@
-'''Member of:''' [[MiscObject Script]]
+'''F4SE Member of:''' [[MiscObject Script]]
 
 Placeholder Description.
 
@@ -24,4 +24,4 @@ EndStruct
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
-
+[[Category: F4SE]]

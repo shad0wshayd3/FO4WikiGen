@@ -1,4 +1,4 @@
-'''Member of:''' [[UI Script]]
+'''F4SE Member of:''' [[UI Script]]
 
 Placeholder Description.
 
@@ -25,4 +25,4 @@ bool Function Set(string asMenu, string asPath, Var avArg) Native Global
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
-
+[[Category: F4SE]]

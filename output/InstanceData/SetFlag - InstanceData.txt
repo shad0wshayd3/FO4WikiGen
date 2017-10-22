@@ -1,4 +1,4 @@
-'''Member of:''' [[InstanceData Script]]
+'''F4SE Member of:''' [[InstanceData Script]]
 
 Placeholder Description.
 
@@ -25,4 +25,4 @@ Function SetFlag(Owner akOwner, int aiFlag, bool abSet) Native Global
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
-
+[[Category: F4SE]]

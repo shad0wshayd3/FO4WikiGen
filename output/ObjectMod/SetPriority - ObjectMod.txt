@@ -1,4 +1,4 @@
-'''Member of:''' [[ObjectMod Script]]
+'''F4SE Member of:''' [[ObjectMod Script]]
 
 Placeholder Description.
 
@@ -23,4 +23,4 @@ Function SetPriority(int aiPriority) Native
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
-
+[[Category: F4SE]]

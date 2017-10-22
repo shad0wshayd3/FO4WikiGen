@@ -1,4 +1,4 @@
-'''Member of:''' [[Location Script]]
+'''F4SE Member of:''' [[Location Script]]
 
 Placeholder Description.
 
@@ -23,4 +23,4 @@ Function SetEncounterZone(EncounterZone akEz) Native
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
-
+[[Category: F4SE]]

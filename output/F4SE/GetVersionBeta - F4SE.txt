@@ -1,4 +1,4 @@
-'''Member of:''' [[F4SE Script]]
+'''F4SE Member of:''' [[F4SE Script]]
 
 Placeholder Description.
 
@@ -23,4 +23,4 @@ int Function GetVersionBeta() Native Global
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
-
+[[Category: F4SE]]

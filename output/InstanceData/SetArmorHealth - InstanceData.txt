@@ -1,4 +1,4 @@
-'''Member of:''' [[InstanceData Script]]
+'''F4SE Member of:''' [[InstanceData Script]]
 
 Placeholder Description.
 
@@ -24,4 +24,4 @@ Function SetArmorHealth(Owner akOwner, int aiHealth) Native Global
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
-
+[[Category: F4SE]]

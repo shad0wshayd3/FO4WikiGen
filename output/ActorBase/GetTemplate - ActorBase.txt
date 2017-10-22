@@ -1,4 +1,4 @@
-'''Member of:''' [[ActorBase Script]]
+'''F4SE Member of:''' [[ActorBase Script]]
 
 Placeholder Description.
 
@@ -23,4 +23,4 @@ ActorBase Function GetTemplate(bool abBTopMost = true) Native
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
-
+[[Category: F4SE]]

@@ -1,4 +1,4 @@
-'''Member of:''' [[Weapon Script]]
+'''F4SE Member of:''' [[Weapon Script]]
 
 Placeholder Description.
 
@@ -23,4 +23,4 @@ ObjectMod Function GetEmbeddedMod() Native
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
-
+[[Category: F4SE]]

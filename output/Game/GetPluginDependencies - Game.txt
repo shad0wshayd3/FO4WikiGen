@@ -1,4 +1,4 @@
-'''Member of:''' [[Game Script]]
+'''F4SE Member of:''' [[Game Script]]
 
 Placeholder Description.
 
@@ -23,4 +23,4 @@ string[] Function GetPluginDependencies(string asPlugin) Native Global
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
-
+[[Category: F4SE]]

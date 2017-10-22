@@ -1,4 +1,4 @@
-'''Member of:''' [[Component Script]]
+'''F4SE Member of:''' [[Component Script]]
 
 Placeholder Description.
 
@@ -23,4 +23,4 @@ GlobalVariable Function GetScrapScalar() Native Global
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
-
+[[Category: F4SE]]

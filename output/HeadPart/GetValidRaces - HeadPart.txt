@@ -1,4 +1,4 @@
-'''Member of:''' [[HeadPart Script]]
+'''F4SE Member of:''' [[HeadPart Script]]
 
 Placeholder Description.
 
@@ -23,4 +23,4 @@ FormList Function GetValidRaces() Native
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
-
+[[Category: F4SE]]

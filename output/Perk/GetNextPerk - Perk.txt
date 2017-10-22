@@ -1,4 +1,4 @@
-'''Member of:''' [[Perk Script]]
+'''F4SE Member of:''' [[Perk Script]]
 
 Placeholder Description.
 
@@ -23,4 +23,4 @@ Perk Function GetNextPerk() Native
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
-
+[[Category: F4SE]]

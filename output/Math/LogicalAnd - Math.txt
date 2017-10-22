@@ -1,4 +1,4 @@
-'''Member of:''' [[Math Script]]
+'''F4SE Member of:''' [[Math Script]]
 
 Placeholder Description.
 
@@ -24,4 +24,4 @@ int Function LogicalAnd(int aiArg1, int aiArg2) Native Global
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
-
+[[Category: F4SE]]

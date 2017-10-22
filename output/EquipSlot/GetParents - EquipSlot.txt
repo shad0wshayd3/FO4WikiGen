@@ -1,4 +1,4 @@
-'''Member of:''' [[EquipSlot Script]]
+'''F4SE Member of:''' [[EquipSlot Script]]
 
 Placeholder Description.
 
@@ -23,4 +23,4 @@ EquipSlot[] Function GetParents() Native
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
-
+[[Category: F4SE]]

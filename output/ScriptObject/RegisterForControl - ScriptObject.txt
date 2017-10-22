@@ -1,4 +1,4 @@
-'''Member of:''' [[ScriptObject Script]]
+'''F4SE Member of:''' [[ScriptObject Script]]
 
 Placeholder Description.
 
@@ -23,4 +23,4 @@ Function RegisterForControl(string asControl) Native
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
-
+[[Category: F4SE]]

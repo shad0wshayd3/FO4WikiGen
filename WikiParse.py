@@ -3,7 +3,7 @@ import os
 TopLevel = "import"
 TypeLeads = [["bool", "ab"], ["float", "af"], ["int", "ai"], ["string", "as"], ["var", "av"], ["", "ak"]]
 
-isF4SE = False
+isF4SE = True
 
 class memberFunction:
     def __init__(self, asParent = "", asType = "", asName = "", asArgs = "", isNative = False, isGlobal = False):

@@ -1,4 +1,4 @@
-'''Member of:''' [[InstanceData Script]]
+'''F4SE Member of:''' [[InstanceData Script]]
 
 Placeholder Description.
 
@@ -24,4 +24,4 @@ Function SetMinRange(Owner akOwner, float afMinRange) Native Global
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
-
+[[Category: F4SE]]

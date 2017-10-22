@@ -1,4 +1,4 @@
-'''Member of:''' [[ObjectReference Script]]
+'''F4SE Member of:''' [[ObjectReference Script]]
 
 Placeholder Description.
 
@@ -23,4 +23,4 @@ float Function GetInventoryWeight() Native
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
-
+[[Category: F4SE]]

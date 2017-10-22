@@ -1,4 +1,4 @@
-'''Member of:''' [[Math Script]]
+'''F4SE Member of:''' [[Math Script]]
 
 Placeholder Description.
 
@@ -24,4 +24,4 @@ int Function LeftShift(int aiValue, int aiShiftBy) Native Global
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
-
+[[Category: F4SE]]

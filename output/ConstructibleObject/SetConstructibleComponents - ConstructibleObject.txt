@@ -1,4 +1,4 @@
-'''Member of:''' [[ConstructibleObject Script]]
+'''F4SE Member of:''' [[ConstructibleObject Script]]
 
 Placeholder Description.
 
@@ -23,4 +23,4 @@ Function SetConstructibleComponents(ConstructibleComponent[] akComponents) Nativ
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
-
+[[Category: F4SE]]

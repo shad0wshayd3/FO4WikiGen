@@ -1,4 +1,4 @@
-'''Member of:''' [[DefaultObject Script]]
+'''F4SE Member of:''' [[DefaultObject Script]]
 
 Placeholder Description.
 
@@ -23,4 +23,4 @@ Function Set(Form akNewForm) Native
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
-
+[[Category: F4SE]]

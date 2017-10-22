@@ -1,4 +1,4 @@
-'''Member of:''' [[Game Script]]
+'''F4SE Member of:''' [[Game Script]]
 
 Placeholder Description.
 
@@ -24,4 +24,4 @@ Function SetGameSettingString(string asSetting, string asValue) Native Global
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
-
+[[Category: F4SE]]

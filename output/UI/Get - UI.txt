@@ -1,4 +1,4 @@
-'''Member of:''' [[UI Script]]
+'''F4SE Member of:''' [[UI Script]]
 
 Placeholder Description.
 
@@ -24,4 +24,4 @@ Var Function Get(string asMenu, string asPath) Native Global
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
-
+[[Category: F4SE]]

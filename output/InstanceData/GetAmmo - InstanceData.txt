@@ -1,4 +1,4 @@
-'''Member of:''' [[InstanceData Script]]
+'''F4SE Member of:''' [[InstanceData Script]]
 
 Placeholder Description.
 
@@ -23,4 +23,4 @@ Ammo Function GetAmmo(Owner akOwner) Native Global
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
-
+[[Category: F4SE]]

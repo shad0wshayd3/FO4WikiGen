@@ -1,4 +1,4 @@
-'''Member of:''' [[Math Script]]
+'''F4SE Member of:''' [[Math Script]]
 
 Placeholder Description.
 
@@ -23,4 +23,4 @@ float Function Exp(float afArg1) Native Global
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
-
+[[Category: F4SE]]

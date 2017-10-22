@@ -1,4 +1,4 @@
-'''Member of:''' [[UI Script]]
+'''F4SE Member of:''' [[UI Script]]
 
 Placeholder Description.
 
@@ -27,4 +27,4 @@ bool Function Load(string asMenu, string asSourceVar, string akAssetPath, Script
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
-
+[[Category: F4SE]]

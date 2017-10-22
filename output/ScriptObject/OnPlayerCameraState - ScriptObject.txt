@@ -1,4 +1,4 @@
-'''Member of:''' [[ScriptObject Script]]
+'''F4SE Member of:''' [[ScriptObject Script]]
 
 Placeholder Description.
 
@@ -22,4 +22,4 @@ Event OnPlayerCameraState(int aiOldState, int aiNewState)
 [[Category: Scripting]]
 [[Category: Papyrus]]
 [[Category: Events]]
-
+[[Category: F4SE]]
