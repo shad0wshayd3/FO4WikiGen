@@ -1,0 +1,27 @@
+'''Member of:''' [[Game Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function ForceDisableSSRGodraysDirLight( akBool, bool akAbDisableGodrays, bool akAbDisableDirLight) Native Global
+</source>
+
+== Parameters ==
+*akBool: Placeholder Description.
+*akAbDisableGodrays: Placeholder Description.
+*akAbDisableDirLight: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

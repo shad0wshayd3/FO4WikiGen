@@ -1,0 +1,24 @@
+'''Member of:''' [[Terminal Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Event OnMenuItemRun(int aiAuiMenuItemID, ObjectReference akTerminalRef)
+</source>
+
+== Parameters ==
+*aiAuiMenuItemID: Placeholder Description.
+*akTerminalRef: Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]
+[[Category: Events]]

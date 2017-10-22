@@ -1,0 +1,27 @@
+'''F4SE Member of:''' [[InstanceData Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Struct Owner
+    Form Owner
+    int SlotIndex
+EndStruct
+</source>
+
+== Members ==
+*Owner: Placeholder Description.
+*SlotIndex: Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]
+[[Category: F4SE]]

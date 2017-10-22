@@ -1,0 +1,25 @@
+'''Member of:''' [[RefCollectionAlias Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Event OnPlayerModArmorWeapon(ObjectReference akSenderRef, Form akBaseObject, ObjectMod akModBaseObject)
+</source>
+
+== Parameters ==
+*akSenderRef: Placeholder Description.
+*akBaseObject: Placeholder Description.
+*akModBaseObject: Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]
+[[Category: Events]]

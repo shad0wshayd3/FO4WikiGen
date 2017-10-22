@@ -1,0 +1,30 @@
+'''Member of:''' [[Message Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function ShowAsHelpMessage(string akAsEvent, float akAfDuration, float akAfInterval, int akAiMaxTimes, string akAsContext="", int akAiPriority=0) Native
+</source>
+
+== Parameters ==
+*akAsEvent: Placeholder Description.
+*akAfDuration: Placeholder Description.
+*akAfInterval: Placeholder Description.
+*akAiMaxTimes: Placeholder Description.
+*akAsContext="": Placeholder Description.
+*akAiPriority=0: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

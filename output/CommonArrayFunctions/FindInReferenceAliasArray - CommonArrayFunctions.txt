@@ -1,0 +1,26 @@
+'''Member of:''' [[CommonArrayFunctions Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+int Function FindInReferenceAliasArray(ObjectReference akObjectToCheck, ReferenceAlias[] akArrayToCheck) Global
+</source>
+
+== Parameters ==
+*akObjectToCheck: Placeholder Description.
+*akArrayToCheck: Placeholder Description.
+
+== Return Value ==
+*Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

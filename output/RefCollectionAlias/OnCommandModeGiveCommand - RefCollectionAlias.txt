@@ -1,0 +1,25 @@
+'''Member of:''' [[RefCollectionAlias Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Event OnCommandModeGiveCommand(ObjectReference akSenderRef, int aiAeCommand, ObjectReference akTarget)
+</source>
+
+== Parameters ==
+*akSenderRef: Placeholder Description.
+*aiAeCommand: Placeholder Description.
+*akTarget: Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]
+[[Category: Events]]

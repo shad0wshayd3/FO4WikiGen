@@ -1,0 +1,27 @@
+'''F4SE Member of:''' [[InstanceData Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function SetMaxRange(Owner akOwner, float afMaxRange) Native Global
+</source>
+
+== Parameters ==
+*akOwner: Placeholder Description.
+*afMaxRange: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]
+[[Category: F4SE]]

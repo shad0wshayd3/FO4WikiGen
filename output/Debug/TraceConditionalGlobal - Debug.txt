@@ -1,0 +1,26 @@
+'''Member of:''' [[Debug Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function TraceConditionalGlobal(string asTextToPrint, GlobalVariable akShowTrace) Global
+</source>
+
+== Parameters ==
+*asTextToPrint: Placeholder Description.
+*akShowTrace: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

@@ -1,0 +1,26 @@
+'''Member of:''' [[Faction Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function SendPlayerToJail(bool akAbRemoveInventory = true, bool akAbRealJail = true) Native
+</source>
+
+== Parameters ==
+*akAbRemoveInventory: Placeholder Description.
+*akAbRealJail: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

@@ -1,0 +1,27 @@
+'''F4SE Member of:''' [[Math Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+int Function LogicalOr(int aiArg1, int aiArg2) Native Global
+</source>
+
+== Parameters ==
+*aiArg1: Placeholder Description.
+*aiArg2: Placeholder Description.
+
+== Return Value ==
+*Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]
+[[Category: F4SE]]

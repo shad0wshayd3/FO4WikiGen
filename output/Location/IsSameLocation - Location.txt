@@ -1,0 +1,26 @@
+'''Member of:''' [[Location Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+bool Function IsSameLocation(Location akOtherLocation, Keyword akKeyword = None)
+</source>
+
+== Parameters ==
+*akOtherLocation: Placeholder Description.
+*akKeyword: Placeholder Description.
+
+== Return Value ==
+*Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

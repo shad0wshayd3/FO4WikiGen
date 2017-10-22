@@ -1,0 +1,26 @@
+'''Member of:''' [[Game Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function ShowPerkVaultBoyOnHUD(string asAVaultBoySwf, Sound akASoundDescriptor = None) Native Global
+</source>
+
+== Parameters ==
+*asAVaultBoySwf: Placeholder Description.
+*akASoundDescriptor: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

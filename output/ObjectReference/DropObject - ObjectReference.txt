@@ -1,0 +1,26 @@
+'''Member of:''' [[ObjectReference Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+ObjectReference Function DropObject(Form akObject, int akAiCount = 1) Native
+</source>
+
+== Parameters ==
+*akObject: Placeholder Description.
+*akAiCount: Placeholder Description.
+
+== Return Value ==
+*Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

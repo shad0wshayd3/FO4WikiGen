@@ -1,0 +1,23 @@
+'''Member of:''' [[Location Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Event OnLocationCleared()
+</source>
+
+== Parameters ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]
+[[Category: Events]]

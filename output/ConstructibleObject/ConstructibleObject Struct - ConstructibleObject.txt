@@ -1,0 +1,22 @@
+'''Member of:''' [[ConstructibleObject Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Struct ConstructibleObject
+EndStruct
+</source>
+
+== Members ==
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

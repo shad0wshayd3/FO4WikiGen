@@ -1,0 +1,25 @@
+'''Member of:''' [[Quest Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function SetQuestStage(QuestStage akQuestStageToSet) Global
+</source>
+
+== Parameters ==
+*akQuestStageToSet: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

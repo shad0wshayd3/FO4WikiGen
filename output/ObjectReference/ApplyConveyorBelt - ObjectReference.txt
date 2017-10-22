@@ -1,0 +1,30 @@
+'''Member of:''' [[ObjectReference Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function ApplyConveyorBelt( akString, float afALinVelX, float afALinVelY, float afALinVelZ, bool akAbOn = true, bool akAbReverse = false) Native
+</source>
+
+== Parameters ==
+*akString: Placeholder Description.
+*afALinVelX: Placeholder Description.
+*afALinVelY: Placeholder Description.
+*afALinVelZ: Placeholder Description.
+*akAbOn: Placeholder Description.
+*akAbReverse: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

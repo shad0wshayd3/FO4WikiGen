@@ -1,0 +1,25 @@
+'''Member of:''' [[Game Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function RequestSave() Native Global
+</source>
+
+== Parameters ==
+*None
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

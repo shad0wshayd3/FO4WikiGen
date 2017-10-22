@@ -1,0 +1,25 @@
+'''Member of:''' [[MiscObject Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+int Function GetObjectComponentCount( akComponent = ) Native
+</source>
+
+== Parameters ==
+*akComponent: Placeholder Description.
+
+== Return Value ==
+*Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

@@ -1,0 +1,24 @@
+'''Member of:''' [[ActiveMagicEffect Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Event OnEffectFinish(Actor akTarget, Actor akCaster)
+</source>
+
+== Parameters ==
+*akTarget: Placeholder Description.
+*akCaster: Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]
+[[Category: Events]]

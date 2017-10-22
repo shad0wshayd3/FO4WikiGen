@@ -1,0 +1,26 @@
+'''Member of:''' [[Actor Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function AllowCompanion(bool abMakeCompanionIfNoneCurrently = true, bool abForceCompanion = false)
+</source>
+
+== Parameters ==
+*abMakeCompanionIfNoneCurrently: Placeholder Description.
+*abForceCompanion: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

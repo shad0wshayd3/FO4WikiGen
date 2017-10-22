@@ -1,0 +1,26 @@
+'''Member of:''' [[Actor Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function MarkItemAsFavorite(Form akItem, int akAiSlot=-1) Native
+</source>
+
+== Parameters ==
+*akItem: Placeholder Description.
+*akAiSlot=-1: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

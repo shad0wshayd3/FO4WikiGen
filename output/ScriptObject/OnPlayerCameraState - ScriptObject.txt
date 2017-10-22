@@ -1,0 +1,25 @@
+'''F4SE Member of:''' [[ScriptObject Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Event OnPlayerCameraState(int aiOldState, int aiNewState)
+</source>
+
+== Parameters ==
+*aiOldState: Placeholder Description.
+*aiNewState: Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]
+[[Category: Events]]
+[[Category: F4SE]]

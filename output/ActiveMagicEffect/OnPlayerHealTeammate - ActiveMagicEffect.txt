@@ -1,0 +1,23 @@
+'''Member of:''' [[ActiveMagicEffect Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Event OnPlayerHealTeammate(Actor akTeammate)
+</source>
+
+== Parameters ==
+*akTeammate: Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]
+[[Category: Events]]

@@ -1,0 +1,26 @@
+'''Member of:''' [[Quest Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function SetObjectiveCompleted(int akAiObjective, bool akAbCompleted = true) Native
+</source>
+
+== Parameters ==
+*akAiObjective: Placeholder Description.
+*akAbCompleted: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

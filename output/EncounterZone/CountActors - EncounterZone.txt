@@ -1,0 +1,26 @@
+'''Member of:''' [[EncounterZone Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+int Function CountActors( akKeyword = =, Keyword akApExcludeLinkedRefKeyword = None) Native
+</source>
+
+== Parameters ==
+*akKeyword: Placeholder Description.
+*akApExcludeLinkedRefKeyword: Placeholder Description.
+
+== Return Value ==
+*Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

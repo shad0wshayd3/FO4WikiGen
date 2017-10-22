@@ -1,0 +1,26 @@
+'''Member of:''' [[Actor Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function StartCombat(Actor akTarget, bool akAbPreferredTarget = false) Native
+</source>
+
+== Parameters ==
+*akTarget: Placeholder Description.
+*akAbPreferredTarget: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

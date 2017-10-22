@@ -1,0 +1,25 @@
+'''Member of:''' [[RefCollectionAlias Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Event OnDestructionStageChanged(ObjectReference akSenderRef, int akAiOldStage, int akAiCurrentStage)
+</source>
+
+== Parameters ==
+*akSenderRef: Placeholder Description.
+*akAiOldStage: Placeholder Description.
+*akAiCurrentStage: Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]
+[[Category: Events]]

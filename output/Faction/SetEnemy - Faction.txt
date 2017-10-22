@@ -1,0 +1,27 @@
+'''Member of:''' [[Faction Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function SetEnemy(Faction akOther, bool akAbSelfIsNeutralToOther = false, bool akAbOtherIsNeutralToSelf = false) Native
+</source>
+
+== Parameters ==
+*akOther: Placeholder Description.
+*akAbSelfIsNeutralToOther: Placeholder Description.
+*akAbOtherIsNeutralToSelf: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

@@ -1,0 +1,25 @@
+'''Member of:''' [[ReferenceAlias Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+bool Function TryToReset()
+</source>
+
+== Parameters ==
+*None
+
+== Return Value ==
+*Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

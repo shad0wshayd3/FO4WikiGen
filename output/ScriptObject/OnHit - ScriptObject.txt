@@ -1,0 +1,28 @@
+'''Member of:''' [[ScriptObject Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Event OnHit(ObjectReference akTarget, ObjectReference akAggressor, Form akSource, Projectile akProjectile, bool akAbPowerAttack, bool akAbSneakAttack)
+</source>
+
+== Parameters ==
+*akTarget: Placeholder Description.
+*akAggressor: Placeholder Description.
+*akSource: Placeholder Description.
+*akProjectile: Placeholder Description.
+*akAbPowerAttack: Placeholder Description.
+*akAbSneakAttack: Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]
+[[Category: Events]]

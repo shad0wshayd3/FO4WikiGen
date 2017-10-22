@@ -1,0 +1,24 @@
+'''Member of:''' [[ObjectReference Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Event OnDestructionStageChanged(int akAiOldStage, int akAiCurrentStage)
+</source>
+
+== Parameters ==
+*akAiOldStage: Placeholder Description.
+*akAiCurrentStage: Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]
+[[Category: Events]]

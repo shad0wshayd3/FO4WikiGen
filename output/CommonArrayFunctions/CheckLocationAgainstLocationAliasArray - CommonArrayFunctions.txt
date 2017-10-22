@@ -1,0 +1,28 @@
+'''Member of:''' [[CommonArrayFunctions Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+bool Function CheckLocationAgainstLocationAliasArray(Location akObjectToCheck, LocationAlias[] akArrayToCheck, bool abReturnValueIfArrayIsEmpty = false, bool abMatchIfChildLocation = false) Global
+</source>
+
+== Parameters ==
+*akObjectToCheck: Placeholder Description.
+*akArrayToCheck: Placeholder Description.
+*abReturnValueIfArrayIsEmpty: Placeholder Description.
+*abMatchIfChildLocation: Placeholder Description.
+
+== Return Value ==
+*Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

@@ -1,0 +1,26 @@
+'''Member of:''' [[Quest Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function SetObjectiveFailed(int akAiObjective, bool akAbFailed = true) Native
+</source>
+
+== Parameters ==
+*akAiObjective: Placeholder Description.
+*akAbFailed: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

@@ -1,0 +1,25 @@
+'''Member of:''' [[Scene Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+bool Function IsActionComplete(int akAiActionID) Native
+</source>
+
+== Parameters ==
+*akAiActionID: Placeholder Description.
+
+== Return Value ==
+*Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

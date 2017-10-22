@@ -1,0 +1,27 @@
+'''Member of:''' [[Actor Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function SetAllowFlying(bool akAbAllowed = true, bool akAbAllowCrash = true, bool akAbAllowSearch = false) Native
+</source>
+
+== Parameters ==
+*akAbAllowed: Placeholder Description.
+*akAbAllowCrash: Placeholder Description.
+*akAbAllowSearch: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

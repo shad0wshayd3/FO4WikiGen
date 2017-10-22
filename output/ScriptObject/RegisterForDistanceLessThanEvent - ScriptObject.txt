@@ -1,0 +1,27 @@
+'''Member of:''' [[ScriptObject Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function RegisterForDistanceLessThanEvent(ScriptObject akObj1, ScriptObject akObj2, float akAfDistance) Native
+</source>
+
+== Parameters ==
+*akObj1: Placeholder Description.
+*akObj2: Placeholder Description.
+*akAfDistance: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

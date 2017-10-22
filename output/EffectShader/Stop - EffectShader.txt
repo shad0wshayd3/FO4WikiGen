@@ -1,0 +1,25 @@
+'''Member of:''' [[EffectShader Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function Stop(ObjectReference akObject) Native
+</source>
+
+== Parameters ==
+*akObject: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

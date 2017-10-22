@@ -1,0 +1,28 @@
+'''Member of:''' [[Keyword Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function SendStoryEvent(Location akLoc = None, ObjectReference akRef1 = None, ObjectReference akRef2 = None, int akAiValue1 = 0)
+</source>
+
+== Parameters ==
+*akLoc: Placeholder Description.
+*akRef1: Placeholder Description.
+*akRef2: Placeholder Description.
+*akAiValue1: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

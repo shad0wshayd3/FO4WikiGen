@@ -1,0 +1,26 @@
+'''Member of:''' [[CommonArrayFunctions Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+bool Function IsActorInArrayHostileToActor (Actor akActorToCheck, ObjectReference[] akArrayToCheck) Global
+</source>
+
+== Parameters ==
+*akActorToCheck: Placeholder Description.
+*akArrayToCheck: Placeholder Description.
+
+== Return Value ==
+*Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

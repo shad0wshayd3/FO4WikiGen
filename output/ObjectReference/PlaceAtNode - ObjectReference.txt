@@ -1,0 +1,31 @@
+'''Member of:''' [[ObjectReference Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+ObjectReference Function PlaceAtNode(string akAsNodeName, Form akFormToPlace, int akAiCount = 1, bool akAbForcePersist = false, bool akAbInitiallyDisabled = false, bool akAbDeleteWhenAble = true, bool akAbAttach = false) Native
+</source>
+
+== Parameters ==
+*akAsNodeName: Placeholder Description.
+*akFormToPlace: Placeholder Description.
+*akAiCount: Placeholder Description.
+*akAbForcePersist: Placeholder Description.
+*akAbInitiallyDisabled: Placeholder Description.
+*akAbDeleteWhenAble: Placeholder Description.
+*akAbAttach: Placeholder Description.
+
+== Return Value ==
+*Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

@@ -1,0 +1,29 @@
+'''Member of:''' [[Game Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function ShowRaceMenu( akObjectReference = =, int aiUiMode = 0, ObjectReference akMenuSpouseFemale = None, ObjectReference akMenuSpouseMale = None, ObjectReference akVendor = None) Native Global
+</source>
+
+== Parameters ==
+*akObjectReference: Placeholder Description.
+*aiUiMode: Placeholder Description.
+*akMenuSpouseFemale: Placeholder Description.
+*akMenuSpouseMale: Placeholder Description.
+*akVendor: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

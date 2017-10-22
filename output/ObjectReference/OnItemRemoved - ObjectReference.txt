@@ -1,0 +1,26 @@
+'''Member of:''' [[ObjectReference Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Event OnItemRemoved(Form akBaseItem, int akAiItemCount, ObjectReference akItemReference, ObjectReference akDestContainer)
+</source>
+
+== Parameters ==
+*akBaseItem: Placeholder Description.
+*akAiItemCount: Placeholder Description.
+*akItemReference: Placeholder Description.
+*akDestContainer: Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]
+[[Category: Events]]

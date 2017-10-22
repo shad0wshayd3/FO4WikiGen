@@ -1,0 +1,26 @@
+'''Member of:''' [[Scroll Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function Cast(ObjectReference akSource, ObjectReference akTarget=NONE) Native
+</source>
+
+== Parameters ==
+*akSource: Placeholder Description.
+*akTarget=NONE: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

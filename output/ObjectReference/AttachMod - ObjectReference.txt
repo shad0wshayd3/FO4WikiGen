@@ -1,0 +1,26 @@
+'''Member of:''' [[ObjectReference Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+bool Function AttachMod(ObjectMod akMod, int akAiAttachIndex = 0) Native
+</source>
+
+== Parameters ==
+*akMod: Placeholder Description.
+*akAiAttachIndex: Placeholder Description.
+
+== Return Value ==
+*Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

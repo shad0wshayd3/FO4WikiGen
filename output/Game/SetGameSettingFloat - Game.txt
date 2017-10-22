@@ -1,0 +1,27 @@
+'''F4SE Member of:''' [[Game Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function SetGameSettingFloat(string asSetting, float afValue) Native Global
+</source>
+
+== Parameters ==
+*asSetting: Placeholder Description.
+*afValue: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]
+[[Category: F4SE]]

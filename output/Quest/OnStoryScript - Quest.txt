@@ -1,0 +1,25 @@
+'''Member of:''' [[Quest Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Event OnStoryScript(Keyword akKeyword, Location akLocation, ObjectReference akRef1)
+</source>
+
+== Parameters ==
+*akKeyword: Placeholder Description.
+*akLocation: Placeholder Description.
+*akRef1: Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]
+[[Category: Events]]

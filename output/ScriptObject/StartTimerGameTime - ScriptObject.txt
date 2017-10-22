@@ -1,0 +1,26 @@
+'''Member of:''' [[ScriptObject Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function StartTimerGameTime(float akAfInterval, int akAiTimerID = 0) Native
+</source>
+
+== Parameters ==
+*akAfInterval: Placeholder Description.
+*akAiTimerID: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

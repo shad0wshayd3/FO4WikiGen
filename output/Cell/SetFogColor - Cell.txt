@@ -1,0 +1,27 @@
+'''Member of:''' [[Cell Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function SetFogColor(int akAiNearRed, int akAiNearGreen, int akAiNearBlue)
+</source>
+
+== Parameters ==
+*akAiNearRed: Placeholder Description.
+*akAiNearGreen: Placeholder Description.
+*akAiNearBlue: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

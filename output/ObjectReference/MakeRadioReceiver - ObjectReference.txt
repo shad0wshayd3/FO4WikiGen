@@ -1,0 +1,29 @@
+'''Member of:''' [[ObjectReference Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function MakeRadioReceiver(float akAfFrequency, float akAfVolume = 1.0, OutputModel akAOverrideModel = None, bool akAbActive = true, bool akAbNoStatic = false) Native
+</source>
+
+== Parameters ==
+*akAfFrequency: Placeholder Description.
+*akAfVolume: Placeholder Description.
+*akAOverrideModel: Placeholder Description.
+*akAbActive: Placeholder Description.
+*akAbNoStatic: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

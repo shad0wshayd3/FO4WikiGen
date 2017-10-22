@@ -1,0 +1,26 @@
+'''Member of:''' [[ObjectReference Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+bool Function Activate(ObjectReference akActivator, bool akAbDefaultProcessingOnly = false) Native
+</source>
+
+== Parameters ==
+*akActivator: Placeholder Description.
+*akAbDefaultProcessingOnly: Placeholder Description.
+
+== Return Value ==
+*Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

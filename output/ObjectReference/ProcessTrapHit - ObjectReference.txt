@@ -1,0 +1,35 @@
+'''Member of:''' [[ObjectReference Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function ProcessTrapHit(ObjectReference akTrap, float akAfDamage, float akAfPushback, float akAfXVel, float akAfYVel, float akAfZVel, float akAfXPos, float akAfYPos, float akAfZPos, int aiAeMaterial, float akAfStagger) Native
+</source>
+
+== Parameters ==
+*akTrap: Placeholder Description.
+*akAfDamage: Placeholder Description.
+*akAfPushback: Placeholder Description.
+*akAfXVel: Placeholder Description.
+*akAfYVel: Placeholder Description.
+*akAfZVel: Placeholder Description.
+*akAfXPos: Placeholder Description.
+*akAfYPos: Placeholder Description.
+*akAfZPos: Placeholder Description.
+*aiAeMaterial: Placeholder Description.
+*akAfStagger: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

@@ -1,0 +1,26 @@
+'''Member of:''' [[Quest Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Struct QuestStage
+    Quest QuestToSet
+    int StageToSet
+EndStruct
+</source>
+
+== Members ==
+*QuestToSet: Placeholder Description.
+*StageToSet: Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

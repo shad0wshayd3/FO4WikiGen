@@ -1,0 +1,26 @@
+'''Member of:''' [[Actor Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function SetDoingFavor(bool akAbDoingFavor = true, bool akAbWorkShopMode=false) Native
+</source>
+
+== Parameters ==
+*akAbDoingFavor: Placeholder Description.
+*akAbWorkShopMode=false: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

@@ -1,0 +1,27 @@
+'''Member of:''' [[RefCollectionAlias Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+bool Function LinkCollectionTo(RefCollectionAlias akLinkedRefCollectionAlias, keyword akLinkKeyword = none, bool abWrapLinks = false)
+</source>
+
+== Parameters ==
+*akLinkedRefCollectionAlias: Placeholder Description.
+*akLinkKeyword: Placeholder Description.
+*abWrapLinks: Placeholder Description.
+
+== Return Value ==
+*Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

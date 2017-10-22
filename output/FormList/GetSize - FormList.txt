@@ -1,0 +1,25 @@
+'''Member of:''' [[FormList Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+int Function GetSize() Native
+</source>
+
+== Parameters ==
+*None
+
+== Return Value ==
+*Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

@@ -1,0 +1,24 @@
+'''Member of:''' [[ActiveMagicEffect Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Event OnLocationChange(Location akOldLoc, Location akNewLoc)
+</source>
+
+== Parameters ==
+*akOldLoc: Placeholder Description.
+*akNewLoc: Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]
+[[Category: Events]]

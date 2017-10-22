@@ -1,0 +1,28 @@
+'''Member of:''' [[ObjectReference Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function MakeTransmitterRepeater(ObjectReference akTransmitterToRepeat, float akAfInnerRadius, float akAfOuterRadius, bool akAbUnlimitedRange = false) Native
+</source>
+
+== Parameters ==
+*akTransmitterToRepeat: Placeholder Description.
+*akAfInnerRadius: Placeholder Description.
+*akAfOuterRadius: Placeholder Description.
+*akAbUnlimitedRange: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

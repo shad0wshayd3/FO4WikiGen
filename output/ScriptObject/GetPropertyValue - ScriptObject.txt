@@ -1,0 +1,25 @@
+'''Member of:''' [[ScriptObject Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Var Function GetPropertyValue(string akAsPropertyName) Native
+</source>
+
+== Parameters ==
+*akAsPropertyName: Placeholder Description.
+
+== Return Value ==
+*Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

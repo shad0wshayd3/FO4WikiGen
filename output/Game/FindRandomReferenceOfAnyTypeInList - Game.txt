@@ -1,0 +1,29 @@
+'''Member of:''' [[Game Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+ObjectReference Function FindRandomReferenceOfAnyTypeInList(FormList akArBaseObjects, float akAfX, float akAfY, float akAfZ, float akAfRadius) Native Global
+</source>
+
+== Parameters ==
+*akArBaseObjects: Placeholder Description.
+*akAfX: Placeholder Description.
+*akAfY: Placeholder Description.
+*akAfZ: Placeholder Description.
+*akAfRadius: Placeholder Description.
+
+== Return Value ==
+*Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

@@ -1,0 +1,26 @@
+'''F4SE Member of:''' [[Math Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+float Function Log(float afArg1) Native Global
+</source>
+
+== Parameters ==
+*afArg1: Placeholder Description.
+
+== Return Value ==
+*Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]
+[[Category: F4SE]]

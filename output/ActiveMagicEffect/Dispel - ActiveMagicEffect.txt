@@ -1,0 +1,25 @@
+'''Member of:''' [[ActiveMagicEffect Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function Dispel() Native
+</source>
+
+== Parameters ==
+*None
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

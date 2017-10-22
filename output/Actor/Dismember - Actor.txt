@@ -1,0 +1,28 @@
+'''Member of:''' [[Actor Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function Dismember( akString, bool akAbForceExplode = false, bool akAbForceDismember = false, bool akAbForceBloodyMess = false) Native
+</source>
+
+== Parameters ==
+*akString: Placeholder Description.
+*akAbForceExplode: Placeholder Description.
+*akAbForceDismember: Placeholder Description.
+*akAbForceBloodyMess: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

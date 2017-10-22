@@ -1,0 +1,27 @@
+'''Member of:''' [[Utility Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function CallGlobalFunctionNoWait(string akAsScriptName, string akAsFuncName, Var[] akAParams) Native Global
+</source>
+
+== Parameters ==
+*akAsScriptName: Placeholder Description.
+*akAsFuncName: Placeholder Description.
+*akAParams: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

@@ -1,0 +1,26 @@
+'''Member of:''' [[Sound Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function SetInstanceVolume(int akAiPlaybackInstance, float akAfVolume) Native Global
+</source>
+
+== Parameters ==
+*akAiPlaybackInstance: Placeholder Description.
+*akAfVolume: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

@@ -1,0 +1,28 @@
+'''Member of:''' [[ScriptObject Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function RegisterForMagicEffectApplyEvent(ScriptObject akTarget, ScriptObject akCasterFilter = None, Form akEffectFilter = None, bool akAbMatch = true) Native
+</source>
+
+== Parameters ==
+*akTarget: Placeholder Description.
+*akCasterFilter: Placeholder Description.
+*akEffectFilter: Placeholder Description.
+*akAbMatch: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

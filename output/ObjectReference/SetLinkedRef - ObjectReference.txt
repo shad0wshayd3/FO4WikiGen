@@ -1,0 +1,26 @@
+'''Member of:''' [[ObjectReference Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function SetLinkedRef(ObjectReference akLinkedRef, Keyword akApKeyword = NONE) Native
+</source>
+
+== Parameters ==
+*akLinkedRef: Placeholder Description.
+*akApKeyword: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

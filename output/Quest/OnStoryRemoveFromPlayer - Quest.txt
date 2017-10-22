@@ -1,0 +1,24 @@
+'''Member of:''' [[Quest Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Event OnStoryRemoveFromPlayer(ObjectReference akOwner, ObjectReference akItem)
+</source>
+
+== Parameters ==
+*akOwner: Placeholder Description.
+*akItem: Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]
+[[Category: Events]]

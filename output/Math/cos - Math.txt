@@ -1,0 +1,25 @@
+'''Member of:''' [[Math Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+float Function cos(float akAfValue) Native Global
+</source>
+
+== Parameters ==
+*akAfValue: Placeholder Description.
+
+== Return Value ==
+*Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

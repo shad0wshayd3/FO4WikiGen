@@ -1,0 +1,27 @@
+'''F4SE Member of:''' [[MiscObject Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Struct MiscComponent
+    Component Object
+    int Count
+EndStruct
+</source>
+
+== Members ==
+*Object: Placeholder Description.
+*Count: Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]
+[[Category: F4SE]]

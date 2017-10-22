@@ -1,0 +1,26 @@
+'''Member of:''' [[ScriptObject Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function SendCustomEvent(CustomEventName akAsEvent, Var[] akArgs = None) Native
+</source>
+
+== Parameters ==
+*akAsEvent: Placeholder Description.
+*akArgs: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

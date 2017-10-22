@@ -1,0 +1,28 @@
+'''Member of:''' [[ScriptObject Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function RegisterForDirectLOSGain(ObjectReference akViewer, ObjectReference akTarget, string akAsViewerNode = "", string akAsTargetNode = "") Native
+</source>
+
+== Parameters ==
+*akViewer: Placeholder Description.
+*akTarget: Placeholder Description.
+*akAsViewerNode: Placeholder Description.
+*akAsTargetNode: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

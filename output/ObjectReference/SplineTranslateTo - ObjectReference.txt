@@ -1,0 +1,33 @@
+'''Member of:''' [[ObjectReference Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function SplineTranslateTo(float akAfX, float akAfY, float akAfZ, float akAfXAngle, float akAfYAngle, float akAfZAngle, float akAfTangentMagnitude, float akAfSpeed, float akAfMaxRotationSpeed = 0.0) Native
+</source>
+
+== Parameters ==
+*akAfX: Placeholder Description.
+*akAfY: Placeholder Description.
+*akAfZ: Placeholder Description.
+*akAfXAngle: Placeholder Description.
+*akAfYAngle: Placeholder Description.
+*akAfZAngle: Placeholder Description.
+*akAfTangentMagnitude: Placeholder Description.
+*akAfSpeed: Placeholder Description.
+*akAfMaxRotationSpeed: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

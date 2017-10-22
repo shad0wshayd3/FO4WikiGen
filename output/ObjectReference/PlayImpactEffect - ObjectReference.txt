@@ -1,0 +1,32 @@
+'''Member of:''' [[ObjectReference Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+bool Function PlayImpactEffect(ImpactDataSet akImpactEffect, string akAsNodeName = "", float akAfPickDirX = 0.0, float akAfPickDirY = 0.0, float akAfPickDirZ = -1.0, float akAfPickLength = 512.0, bool akAbApplyNodeRotation = false, bool akAbUseNodeLocalRotation = false) Native
+</source>
+
+== Parameters ==
+*akImpactEffect: Placeholder Description.
+*akAsNodeName: Placeholder Description.
+*akAfPickDirX: Placeholder Description.
+*akAfPickDirY: Placeholder Description.
+*akAfPickDirZ: Placeholder Description.
+*akAfPickLength: Placeholder Description.
+*akAbApplyNodeRotation: Placeholder Description.
+*akAbUseNodeLocalRotation: Placeholder Description.
+
+== Return Value ==
+*Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

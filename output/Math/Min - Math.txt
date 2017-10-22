@@ -1,0 +1,26 @@
+'''Member of:''' [[Math Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+float Function Min(float akAfValue1, float akAfValue2) Global
+</source>
+
+== Parameters ==
+*akAfValue1: Placeholder Description.
+*akAfValue2: Placeholder Description.
+
+== Return Value ==
+*Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

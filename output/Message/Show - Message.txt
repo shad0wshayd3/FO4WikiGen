@@ -1,0 +1,33 @@
+'''Member of:''' [[Message Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+int Function Show(float akAfArg1 = 0.0, float akAfArg2 = 0.0, float akAfArg3 = 0.0, float akAfArg4 = 0.0, float akAfArg5 = 0.0, float akAfArg6 = 0.0, float akAfArg7 = 0.0, float akAfArg8 = 0.0, float akAfArg9 = 0.0) Native
+</source>
+
+== Parameters ==
+*akAfArg1: Placeholder Description.
+*akAfArg2: Placeholder Description.
+*akAfArg3: Placeholder Description.
+*akAfArg4: Placeholder Description.
+*akAfArg5: Placeholder Description.
+*akAfArg6: Placeholder Description.
+*akAfArg7: Placeholder Description.
+*akAfArg8: Placeholder Description.
+*akAfArg9: Placeholder Description.
+
+== Return Value ==
+*Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

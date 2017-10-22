@@ -1,0 +1,26 @@
+'''Member of:''' [[Location Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function SetKeywordData(Keyword akKeyword, float akAfData) Native
+</source>
+
+== Parameters ==
+*akKeyword: Placeholder Description.
+*akAfData: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

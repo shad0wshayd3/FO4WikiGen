@@ -1,0 +1,25 @@
+'''Member of:''' [[RefCollectionAlias Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+int Function Find(ObjectReference akFindRef) Native
+</source>
+
+== Parameters ==
+*akFindRef: Placeholder Description.
+
+== Return Value ==
+*Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

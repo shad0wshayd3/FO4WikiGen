@@ -1,0 +1,26 @@
+'''Member of:''' [[Game Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function IncrementSkill(ActorValue akActorValue, int akAiCount = 1) Native Global
+</source>
+
+== Parameters ==
+*akActorValue: Placeholder Description.
+*akAiCount: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

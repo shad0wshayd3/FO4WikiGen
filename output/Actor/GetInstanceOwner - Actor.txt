@@ -1,0 +1,26 @@
+'''F4SE Member of:''' [[Actor Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+InstanceData:Owner Function GetInstanceOwner(int aiSlotIndex)
+</source>
+
+== Parameters ==
+*aiSlotIndex: Placeholder Description.
+
+== Return Value ==
+*Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]
+[[Category: F4SE]]

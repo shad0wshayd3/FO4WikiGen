@@ -1,0 +1,25 @@
+'''F4SE Member of:''' [[ScriptObject Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Event OnKeyUp(int aiKeyCode, float afTime)
+</source>
+
+== Parameters ==
+*aiKeyCode: Placeholder Description.
+*afTime: Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]
+[[Category: Events]]
+[[Category: F4SE]]

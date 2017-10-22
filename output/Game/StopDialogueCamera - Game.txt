@@ -1,0 +1,26 @@
+'''Member of:''' [[Game Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function StopDialogueCamera( akBool = =, bool akAbSwitchingTo1stP = false) Native Global
+</source>
+
+== Parameters ==
+*akBool: Placeholder Description.
+*akAbSwitchingTo1stP: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

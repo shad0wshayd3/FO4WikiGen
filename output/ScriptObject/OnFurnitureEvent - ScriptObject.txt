@@ -1,0 +1,26 @@
+'''F4SE Member of:''' [[ScriptObject Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Event OnFurnitureEvent(Actor akActor, ObjectReference akFurniture, bool abIsGettingUp)
+</source>
+
+== Parameters ==
+*akActor: Placeholder Description.
+*akFurniture: Placeholder Description.
+*abIsGettingUp: Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]
+[[Category: Events]]
+[[Category: F4SE]]

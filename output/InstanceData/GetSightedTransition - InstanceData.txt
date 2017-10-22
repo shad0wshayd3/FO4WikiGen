@@ -1,0 +1,26 @@
+'''F4SE Member of:''' [[InstanceData Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+float Function GetSightedTransition(Owner akOwner) Native Global
+</source>
+
+== Parameters ==
+*akOwner: Placeholder Description.
+
+== Return Value ==
+*Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]
+[[Category: F4SE]]

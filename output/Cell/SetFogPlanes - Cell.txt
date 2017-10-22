@@ -1,0 +1,26 @@
+'''Member of:''' [[Cell Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function SetFogPlanes(float akAfNear, float akAfFar) Native
+</source>
+
+== Parameters ==
+*akAfNear: Placeholder Description.
+*akAfFar: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

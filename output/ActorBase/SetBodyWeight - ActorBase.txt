@@ -1,0 +1,26 @@
+'''F4SE Member of:''' [[ActorBase Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function SetBodyWeight(BodyWeight akWeight) Native
+</source>
+
+== Parameters ==
+*akWeight: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]
+[[Category: F4SE]]

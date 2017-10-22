@@ -1,0 +1,25 @@
+'''Member of:''' [[Quest Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Event OnStoryHello(Location akLocation, ObjectReference akActor1, ObjectReference akActor2)
+</source>
+
+== Parameters ==
+*akLocation: Placeholder Description.
+*akActor1: Placeholder Description.
+*akActor2: Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]
+[[Category: Events]]

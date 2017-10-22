@@ -1,0 +1,27 @@
+'''Member of:''' [[Quest Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function SetObjectiveDisplayed(int akAiObjective, bool akAbDisplayed = true, bool akAbForce = false) Native
+</source>
+
+== Parameters ==
+*akAiObjective: Placeholder Description.
+*akAbDisplayed: Placeholder Description.
+*akAbForce: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

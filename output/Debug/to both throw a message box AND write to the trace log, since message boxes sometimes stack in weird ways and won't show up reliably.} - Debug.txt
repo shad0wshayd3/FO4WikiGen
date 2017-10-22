@@ -1,0 +1,26 @@
+'''Member of:''' [[Debug Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+{A Function to both throw a message box AND write to the trace log, since message boxes sometimes stack in weird ways and won't show up reliably.}({A akConvenience = to, since akMessage = sometimes)
+</source>
+
+== Parameters ==
+*akConvenience: Placeholder Description.
+*akMessage: Placeholder Description.
+
+== Return Value ==
+*Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

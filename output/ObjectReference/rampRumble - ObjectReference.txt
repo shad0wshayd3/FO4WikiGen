@@ -1,0 +1,27 @@
+'''Member of:''' [[ObjectReference Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+bool Function rampRumble(float afPower = 0.5, float afDuration = 0.25, float afFalloff = 1600.0)
+</source>
+
+== Parameters ==
+*afPower: Placeholder Description.
+*afDuration: Placeholder Description.
+*afFalloff: Placeholder Description.
+
+== Return Value ==
+*Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

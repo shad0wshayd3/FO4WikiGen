@@ -1,0 +1,26 @@
+'''Member of:''' [[ActorBase Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function SetOutfit( akOutfit, bool akAbSleepOutfit = false) Native
+</source>
+
+== Parameters ==
+*akOutfit: Placeholder Description.
+*akAbSleepOutfit: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

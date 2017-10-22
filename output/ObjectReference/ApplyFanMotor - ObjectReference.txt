@@ -1,0 +1,30 @@
+'''Member of:''' [[ObjectReference Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function ApplyFanMotor( akString, float afAAxisX, float afAAxisY, float afAAxisZ, float akAForce, bool akAbOn = true) Native
+</source>
+
+== Parameters ==
+*akString: Placeholder Description.
+*afAAxisX: Placeholder Description.
+*afAAxisY: Placeholder Description.
+*afAAxisZ: Placeholder Description.
+*akAForce: Placeholder Description.
+*akAbOn: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

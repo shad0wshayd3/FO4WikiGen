@@ -1,0 +1,43 @@
+'''F4SE Member of:''' [[ObjectReference Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Struct ConnectPoint
+    string Parent
+    string Name
+    float Roll
+    float Pitch
+    float Yaw
+    float X
+    float Y
+    float Z
+    float Scale
+    ObjectReference Object
+EndStruct
+</source>
+
+== Members ==
+*Parent: Placeholder Description.
+*Name: Placeholder Description.
+*Roll: Placeholder Description.
+*Pitch: Placeholder Description.
+*Yaw: Placeholder Description.
+*X: Placeholder Description.
+*Y: Placeholder Description.
+*Z: Placeholder Description.
+*Scale: Placeholder Description.
+*Object: Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]
+[[Category: F4SE]]

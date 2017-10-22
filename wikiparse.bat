@@ -1,0 +1,1 @@
+python WikiParse.py > output.txt

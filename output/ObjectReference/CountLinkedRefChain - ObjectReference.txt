@@ -1,0 +1,26 @@
+'''Member of:''' [[ObjectReference Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+int Function CountLinkedRefChain(keyword akApKeyword = None, int aiMaxExpectedLinkedRefs = 100) Native
+</source>
+
+== Parameters ==
+*akApKeyword: Placeholder Description.
+*aiMaxExpectedLinkedRefs: Placeholder Description.
+
+== Return Value ==
+*Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

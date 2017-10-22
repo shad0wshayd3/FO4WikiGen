@@ -1,0 +1,27 @@
+'''Member of:''' [[Faction Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function SetAlly(Faction akOther, bool akAbSelfIsFriendToOther = false, bool akAbOtherIsFriendToSelf = false) Native
+</source>
+
+== Parameters ==
+*akOther: Placeholder Description.
+*akAbSelfIsFriendToOther: Placeholder Description.
+*akAbOtherIsFriendToSelf: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

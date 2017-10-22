@@ -1,0 +1,24 @@
+'''Member of:''' [[RefCollectionAlias Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Event OnDeferredKill(ObjectReference akSenderRef, Actor akKiller)
+</source>
+
+== Parameters ==
+*akSenderRef: Placeholder Description.
+*akKiller: Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]
+[[Category: Events]]

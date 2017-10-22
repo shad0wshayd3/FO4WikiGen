@@ -1,0 +1,26 @@
+'''Member of:''' [[Location Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+bool Function HasCommonParent(Location akOther, Keyword akFilter = None) Native
+</source>
+
+== Parameters ==
+*akOther: Placeholder Description.
+*akFilter: Placeholder Description.
+
+== Return Value ==
+*Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

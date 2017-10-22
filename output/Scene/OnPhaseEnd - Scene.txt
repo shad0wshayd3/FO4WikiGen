@@ -1,0 +1,23 @@
+'''Member of:''' [[Scene Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Event OnPhaseEnd(int aiAuiPhaseIndex)
+</source>
+
+== Parameters ==
+*aiAuiPhaseIndex: Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]
+[[Category: Events]]

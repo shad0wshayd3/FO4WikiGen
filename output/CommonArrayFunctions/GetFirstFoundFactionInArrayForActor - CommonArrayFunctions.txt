@@ -1,0 +1,26 @@
+'''Member of:''' [[CommonArrayFunctions Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Faction Function GetFirstFoundFactionInArrayForActor(Actor akActorToCheck, Faction[] akArrayToCheck) Global
+</source>
+
+== Parameters ==
+*akActorToCheck: Placeholder Description.
+*akArrayToCheck: Placeholder Description.
+
+== Return Value ==
+*Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

@@ -1,0 +1,29 @@
+'''Member of:''' [[RefCollectionAlias Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Event OnTrapHitStart(ObjectReference akSenderRef, ObjectReference akTarget, float akAfXVel, float akAfYVel, float akAfZVel, float akAfXPos, float akAfYPos)
+</source>
+
+== Parameters ==
+*akSenderRef: Placeholder Description.
+*akTarget: Placeholder Description.
+*akAfXVel: Placeholder Description.
+*akAfYVel: Placeholder Description.
+*akAfZVel: Placeholder Description.
+*akAfXPos: Placeholder Description.
+*akAfYPos: Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]
+[[Category: Events]]

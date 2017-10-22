@@ -1,0 +1,27 @@
+'''Member of:''' [[VisualEffect Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function Play(ObjectReference akObject, float akAfTime = -1.0, ObjectReference akFacingObject = None) Native
+</source>
+
+== Parameters ==
+*akObject: Placeholder Description.
+*akAfTime: Placeholder Description.
+*akFacingObject: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

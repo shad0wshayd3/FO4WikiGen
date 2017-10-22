@@ -1,0 +1,25 @@
+'''Member of:''' [[ReferenceAlias Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+float Function TryToGetValue(ActorValue akAV)
+</source>
+
+== Parameters ==
+*akAV: Placeholder Description.
+
+== Return Value ==
+*Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

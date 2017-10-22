@@ -1,0 +1,25 @@
+'''Member of:''' [[InputEnableLayer Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function EnableCamSwitch(bool akAbEnable = true) Native
+</source>
+
+== Parameters ==
+*akAbEnable: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

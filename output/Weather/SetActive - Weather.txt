@@ -1,0 +1,26 @@
+'''Member of:''' [[Weather Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function SetActive( akBool, bool akAbAccelerate=false) Native
+</source>
+
+== Parameters ==
+*akBool: Placeholder Description.
+*akAbAccelerate=false: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

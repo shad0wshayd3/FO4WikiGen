@@ -1,0 +1,32 @@
+'''Member of:''' [[Quest Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+bool Function ModObjectiveGlobal(float akAfModValue, GlobalVariable akAModGlobal, int akAiObjectiveID = -1, float akAfTargetValue = -1.0, bool akAbCountingUp = true, bool akAbCompleteObjective = true, bool akAbRedisplayObjective = true, bool akAbAllowRollbackObjective = false) Global
+</source>
+
+== Parameters ==
+*akAfModValue: Placeholder Description.
+*akAModGlobal: Placeholder Description.
+*akAiObjectiveID: Placeholder Description.
+*akAfTargetValue: Placeholder Description.
+*akAbCountingUp: Placeholder Description.
+*akAbCompleteObjective: Placeholder Description.
+*akAbRedisplayObjective: Placeholder Description.
+*akAbAllowRollbackObjective: Placeholder Description.
+
+== Return Value ==
+*Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

@@ -1,0 +1,27 @@
+'''F4SE Member of:''' [[Input Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+int Function GetMappedKey(string asControl, int aiDeviceType = 0xFF) Native Global
+</source>
+
+== Parameters ==
+*asControl: Placeholder Description.
+*aiDeviceType: Placeholder Description.
+
+== Return Value ==
+*Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]
+[[Category: F4SE]]

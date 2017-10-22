@@ -1,0 +1,25 @@
+'''Member of:''' [[ImageSpaceModifier Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function RemoveCrossFade(float akAfFadeDuration = 1.0) Native Global
+</source>
+
+== Parameters ==
+*akAfFadeDuration: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

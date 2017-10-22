@@ -1,0 +1,27 @@
+'''F4SE Member of:''' [[Math Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+int Function RightShift(int aiValue, int aiShiftBy) Native Global
+</source>
+
+== Parameters ==
+*aiValue: Placeholder Description.
+*aiShiftBy: Placeholder Description.
+
+== Return Value ==
+*Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]
+[[Category: F4SE]]

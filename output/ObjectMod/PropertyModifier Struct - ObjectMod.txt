@@ -1,0 +1,33 @@
+'''F4SE Member of:''' [[ObjectMod Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Struct PropertyModifier
+    int Target
+    int Operator
+    Form Object
+    float Value1
+    float Value2
+EndStruct
+</source>
+
+== Members ==
+*Target: Placeholder Description.
+*Operator: Placeholder Description.
+*Object: Placeholder Description.
+*Value1: Placeholder Description.
+*Value2: Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]
+[[Category: F4SE]]

@@ -1,0 +1,26 @@
+'''Member of:''' [[ScriptObject Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+bool Function RegisterForAnimationEvent(ObjectReference akSender, string akAsEventName) Native
+</source>
+
+== Parameters ==
+*akSender: Placeholder Description.
+*akAsEventName: Placeholder Description.
+
+== Return Value ==
+*Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

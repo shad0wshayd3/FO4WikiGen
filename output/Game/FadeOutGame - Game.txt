@@ -1,0 +1,29 @@
+'''Member of:''' [[Game Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function FadeOutGame(bool akAbFadingOut, bool akAbBlackFade, float akAfSecsBeforeFade, float akAfFadeDuration, bool akAbStayFaded = false) Native Global
+</source>
+
+== Parameters ==
+*akAbFadingOut: Placeholder Description.
+*akAbBlackFade: Placeholder Description.
+*akAfSecsBeforeFade: Placeholder Description.
+*akAfFadeDuration: Placeholder Description.
+*akAbStayFaded: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

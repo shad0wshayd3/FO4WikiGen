@@ -1,0 +1,34 @@
+'''Member of:''' [[ObjectReference Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Location Function OpenWorkshopSettlementMenuEx(Keyword akActionKW, Message akAstrConfirm = None, Location akALocToHighlight = None, FormList akIncludeKeywordList = None, FormList akExcludeKeywordList = None, bool akAbExcludeZeroPopulation = false, bool akAbOnlyOwnedWorkshops = true, bool akAbTurnOffHeader = false, bool akAbOnlyPotentialVassalSettlements = false, bool akAbDisableReservedByQuests = false) Native
+</source>
+
+== Parameters ==
+*akActionKW: Placeholder Description.
+*akAstrConfirm: Placeholder Description.
+*akALocToHighlight: Placeholder Description.
+*akIncludeKeywordList: Placeholder Description.
+*akExcludeKeywordList: Placeholder Description.
+*akAbExcludeZeroPopulation: Placeholder Description.
+*akAbOnlyOwnedWorkshops: Placeholder Description.
+*akAbTurnOffHeader: Placeholder Description.
+*akAbOnlyPotentialVassalSettlements: Placeholder Description.
+*akAbDisableReservedByQuests: Placeholder Description.
+
+== Return Value ==
+*Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

@@ -1,0 +1,25 @@
+'''Member of:''' [[Perk Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Event OnEntryRun(int aiAuiEntryID, ObjectReference akTarget, Actor akOwner)
+</source>
+
+== Parameters ==
+*aiAuiEntryID: Placeholder Description.
+*akTarget: Placeholder Description.
+*akOwner: Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]
+[[Category: Events]]

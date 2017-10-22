@@ -1,0 +1,27 @@
+'''Member of:''' [[Actor Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function SetPlayerTeammate(bool akAbTeammate = true, bool akAbCanDoFavor=true, bool akAbGivePlayerXP=false) Native
+</source>
+
+== Parameters ==
+*akAbTeammate: Placeholder Description.
+*akAbCanDoFavor=true: Placeholder Description.
+*akAbGivePlayerXP=false: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

@@ -1,0 +1,25 @@
+'''Member of:''' [[Debug Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function SetGodMode(bool akAbGodMode) Native Global
+</source>
+
+== Parameters ==
+*akAbGodMode: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

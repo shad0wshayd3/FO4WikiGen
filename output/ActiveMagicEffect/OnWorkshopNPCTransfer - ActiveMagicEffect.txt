@@ -1,0 +1,24 @@
+'''Member of:''' [[ActiveMagicEffect Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Event OnWorkshopNPCTransfer(Location akNewWorkshop, Keyword akActionKW)
+</source>
+
+== Parameters ==
+*akNewWorkshop: Placeholder Description.
+*akActionKW: Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]
+[[Category: Events]]

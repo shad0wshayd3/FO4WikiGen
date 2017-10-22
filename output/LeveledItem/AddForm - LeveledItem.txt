@@ -1,0 +1,27 @@
+'''Member of:''' [[LeveledItem Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function AddForm(Form akApForm, int akAiLevel, int akAiCount) Native
+</source>
+
+== Parameters ==
+*akApForm: Placeholder Description.
+*akAiLevel: Placeholder Description.
+*akAiCount: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

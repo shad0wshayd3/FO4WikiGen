@@ -1,0 +1,24 @@
+'''Member of:''' [[Scene Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Event OnAction(int aiAuiActionID, ReferenceAlias akAlias)
+</source>
+
+== Parameters ==
+*aiAuiActionID: Placeholder Description.
+*akAlias: Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]
+[[Category: Events]]

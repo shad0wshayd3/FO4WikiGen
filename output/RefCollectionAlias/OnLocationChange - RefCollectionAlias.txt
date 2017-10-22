@@ -1,0 +1,25 @@
+'''Member of:''' [[RefCollectionAlias Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Event OnLocationChange(ObjectReference akSenderRef, Location akOldLoc, Location akNewLoc)
+</source>
+
+== Parameters ==
+*akSenderRef: Placeholder Description.
+*akOldLoc: Placeholder Description.
+*akNewLoc: Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]
+[[Category: Events]]

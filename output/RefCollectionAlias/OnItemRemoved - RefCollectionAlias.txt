@@ -1,0 +1,27 @@
+'''Member of:''' [[RefCollectionAlias Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Event OnItemRemoved(ObjectReference akSenderRef, Form akBaseItem, int akAiItemCount, ObjectReference akItemReference, ObjectReference akDestContainer)
+</source>
+
+== Parameters ==
+*akSenderRef: Placeholder Description.
+*akBaseItem: Placeholder Description.
+*akAiItemCount: Placeholder Description.
+*akItemReference: Placeholder Description.
+*akDestContainer: Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]
+[[Category: Events]]

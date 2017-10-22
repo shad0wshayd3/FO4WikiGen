@@ -1,0 +1,25 @@
+'''Member of:''' [[ScriptObject Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Event OnDistanceGreaterThan(ObjectReference akObj1, ObjectReference akObj2, float akAfDistance)
+</source>
+
+== Parameters ==
+*akObj1: Placeholder Description.
+*akObj2: Placeholder Description.
+*akAfDistance: Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]
+[[Category: Events]]

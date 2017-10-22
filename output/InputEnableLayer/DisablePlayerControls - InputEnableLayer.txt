@@ -1,0 +1,28 @@
+'''Member of:''' [[InputEnableLayer Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function DisablePlayerControls(bool akAbMovement = true, bool akAbFighting = true, bool akAbCamSwitch = false, bool akAbLooking = false)
+</source>
+
+== Parameters ==
+*akAbMovement: Placeholder Description.
+*akAbFighting: Placeholder Description.
+*akAbCamSwitch: Placeholder Description.
+*akAbLooking: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

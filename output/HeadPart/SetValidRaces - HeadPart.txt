@@ -1,0 +1,26 @@
+'''F4SE Member of:''' [[HeadPart Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function SetValidRaces(FormList akVRaces) Native
+</source>
+
+== Parameters ==
+*akVRaces: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]
+[[Category: F4SE]]

@@ -1,0 +1,26 @@
+'''Member of:''' [[Debug Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function StartStackRootProfiling(string akAsScriptName, ScriptObject akObj = None) Native Global
+</source>
+
+== Parameters ==
+*akAsScriptName: Placeholder Description.
+*akObj: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

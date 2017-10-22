@@ -1,0 +1,27 @@
+'''F4SE Member of:''' [[Actor Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function QueueUpdate(bool abBDoEquipment = false, int aiFlags = 0) Native
+</source>
+
+== Parameters ==
+*abBDoEquipment: Placeholder Description.
+*aiFlags: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]
+[[Category: F4SE]]

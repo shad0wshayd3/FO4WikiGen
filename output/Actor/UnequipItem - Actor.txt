@@ -1,0 +1,27 @@
+'''Member of:''' [[Actor Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function UnequipItem(Form akItem, bool akAbPreventEquip = false, bool akAbSilent = false) Native
+</source>
+
+== Parameters ==
+*akItem: Placeholder Description.
+*akAbPreventEquip: Placeholder Description.
+*akAbSilent: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

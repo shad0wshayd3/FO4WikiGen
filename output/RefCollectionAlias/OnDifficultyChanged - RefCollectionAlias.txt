@@ -1,0 +1,25 @@
+'''Member of:''' [[RefCollectionAlias Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Event OnDifficultyChanged(ObjectReference akSenderRef, int aiAOldDifficulty, int aiANewDifficulty)
+</source>
+
+== Parameters ==
+*akSenderRef: Placeholder Description.
+*aiAOldDifficulty: Placeholder Description.
+*aiANewDifficulty: Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]
+[[Category: Events]]

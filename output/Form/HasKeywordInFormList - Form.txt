@@ -1,0 +1,25 @@
+'''Member of:''' [[Form Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+bool Function HasKeywordInFormList(FormList akKeywordList) Native
+</source>
+
+== Parameters ==
+*akKeywordList: Placeholder Description.
+
+== Return Value ==
+*Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

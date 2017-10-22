@@ -1,0 +1,24 @@
+'''Member of:''' [[ScriptObject Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Event OnGainLOS(ObjectReference akViewer, ObjectReference akTarget)
+</source>
+
+== Parameters ==
+*akViewer: Placeholder Description.
+*akTarget: Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]
+[[Category: Events]]

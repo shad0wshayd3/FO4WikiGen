@@ -1,0 +1,25 @@
+'''Member of:''' [[Ingredient Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function LearnAllEffects() Native
+</source>
+
+== Parameters ==
+*None
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

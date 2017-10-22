@@ -1,0 +1,26 @@
+'''Member of:''' [[Utility Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+int Function RandomInt(int akAiMin = 0, int akAiMax = 100) Native Global
+</source>
+
+== Parameters ==
+*akAiMin: Placeholder Description.
+*akAiMax: Placeholder Description.
+
+== Return Value ==
+*Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

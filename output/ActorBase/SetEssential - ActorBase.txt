@@ -1,0 +1,25 @@
+'''Member of:''' [[ActorBase Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function SetEssential(bool akAbEssential = true) Native
+</source>
+
+== Parameters ==
+*akAbEssential: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

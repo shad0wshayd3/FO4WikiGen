@@ -1,0 +1,25 @@
+'''Member of:''' [[Faction Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function SetCrimeGold(int akAiGold) Native
+</source>
+
+== Parameters ==
+*akAiGold: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

@@ -1,0 +1,31 @@
+'''F4SE Member of:''' [[Game Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Struct PluginInfo
+    int Index
+    string Name
+    string Author
+    string Description
+EndStruct
+</source>
+
+== Members ==
+*Index: Placeholder Description.
+*Name: Placeholder Description.
+*Author: Placeholder Description.
+*Description: Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]
+[[Category: F4SE]]

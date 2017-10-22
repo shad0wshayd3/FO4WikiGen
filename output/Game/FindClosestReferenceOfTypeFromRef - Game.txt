@@ -1,0 +1,27 @@
+'''Member of:''' [[Game Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+ObjectReference Function FindClosestReferenceOfTypeFromRef(Form akArBaseObject, ObjectReference akArCenter, float akAfRadius) Global
+</source>
+
+== Parameters ==
+*akArBaseObject: Placeholder Description.
+*akArCenter: Placeholder Description.
+*akAfRadius: Placeholder Description.
+
+== Return Value ==
+*Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

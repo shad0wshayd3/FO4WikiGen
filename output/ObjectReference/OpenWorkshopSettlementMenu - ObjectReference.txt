@@ -1,0 +1,27 @@
+'''Member of:''' [[ObjectReference Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Location Function OpenWorkshopSettlementMenu(Keyword akActionKW, Message akAstrConfirm = None, Location akALocToHighlight = None) Native
+</source>
+
+== Parameters ==
+*akActionKW: Placeholder Description.
+*akAstrConfirm: Placeholder Description.
+*akALocToHighlight: Placeholder Description.
+
+== Return Value ==
+*Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

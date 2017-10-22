@@ -1,0 +1,29 @@
+'''F4SE Member of:''' [[ActorBase Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Struct BodyWeight
+    float Thin
+    float Muscular
+    float Large
+EndStruct
+</source>
+
+== Members ==
+*Thin: Placeholder Description.
+*Muscular: Placeholder Description.
+*Large: Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]
+[[Category: F4SE]]

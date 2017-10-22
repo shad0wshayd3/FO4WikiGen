@@ -1,0 +1,26 @@
+'''Member of:''' [[Faction Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function PlayerPayCrimeGold(bool akAbRemoveStolenItems = true, bool akAbGoToJail = true) Native
+</source>
+
+== Parameters ==
+*akAbRemoveStolenItems: Placeholder Description.
+*akAbGoToJail: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

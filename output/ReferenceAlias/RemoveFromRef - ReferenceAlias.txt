@@ -1,0 +1,25 @@
+'''Member of:''' [[ReferenceAlias Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function RemoveFromRef(ObjectReference akRef) Native
+</source>
+
+== Parameters ==
+*akRef: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

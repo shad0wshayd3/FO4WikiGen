@@ -1,0 +1,26 @@
+'''Member of:''' [[ImageSpaceModifier Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function PopTo(ImageSpaceModifier akNewModifier, float akAfStrength = 1.0) Native
+</source>
+
+== Parameters ==
+*akNewModifier: Placeholder Description.
+*akAfStrength: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

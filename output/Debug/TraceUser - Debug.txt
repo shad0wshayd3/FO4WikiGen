@@ -1,0 +1,27 @@
+'''Member of:''' [[Debug Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+bool Function TraceUser(string akAsUserLog, string akAsTextToPrint, int akAiSeverity = 0) Native Global
+</source>
+
+== Parameters ==
+*akAsUserLog: Placeholder Description.
+*akAsTextToPrint: Placeholder Description.
+*akAiSeverity: Placeholder Description.
+
+== Return Value ==
+*Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

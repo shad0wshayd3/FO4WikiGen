@@ -1,0 +1,25 @@
+'''F4SE Member of:''' [[ScriptObject Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Event OnControlUp(string asControl, float afTime)
+</source>
+
+== Parameters ==
+*asControl: Placeholder Description.
+*afTime: Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]
+[[Category: Events]]
+[[Category: F4SE]]

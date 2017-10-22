@@ -1,0 +1,28 @@
+'''F4SE Member of:''' [[UI Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Var Function Invoke(string asMenu, string asPath, Var[] akArgs = None) Native Global
+</source>
+
+== Parameters ==
+*asMenu: Placeholder Description.
+*asPath: Placeholder Description.
+*akArgs: Placeholder Description.
+
+== Return Value ==
+*Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]
+[[Category: F4SE]]

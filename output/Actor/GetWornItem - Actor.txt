@@ -1,0 +1,27 @@
+'''F4SE Member of:''' [[Actor Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+WornItem Function GetWornItem(int aiSlotIndex, bool abFirstPerson = false) Native
+</source>
+
+== Parameters ==
+*aiSlotIndex: Placeholder Description.
+*abFirstPerson: Placeholder Description.
+
+== Return Value ==
+*Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]
+[[Category: F4SE]]

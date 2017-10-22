@@ -1,0 +1,30 @@
+'''Member of:''' [[ObjectReference Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+int Function SellItem(Form akItem, int aiValue, int aiAmountToSell = -1, bool abSilent = false, form akPaymentItem = none, objectReference akPaymentContainer = None)
+</source>
+
+== Parameters ==
+*akItem: Placeholder Description.
+*aiValue: Placeholder Description.
+*aiAmountToSell: Placeholder Description.
+*abSilent: Placeholder Description.
+*akPaymentItem: Placeholder Description.
+*akPaymentContainer: Placeholder Description.
+
+== Return Value ==
+*Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

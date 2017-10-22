@@ -1,0 +1,27 @@
+'''Member of:''' [[Game Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function ShakeCamera(ObjectReference akSource = None, float akAfStrength = 0.5, float akAfDuration = 0.0) Native Global
+</source>
+
+== Parameters ==
+*akSource: Placeholder Description.
+*akAfStrength: Placeholder Description.
+*akAfDuration: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

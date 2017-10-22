@@ -1,0 +1,27 @@
+'''Member of:''' [[Game Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function ShakeController(float akAfSmallMotorStrength, float akAfBigMotorStreangth, float akAfDuration) Native Global
+</source>
+
+== Parameters ==
+*akAfSmallMotorStrength: Placeholder Description.
+*akAfBigMotorStreangth: Placeholder Description.
+*akAfDuration: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

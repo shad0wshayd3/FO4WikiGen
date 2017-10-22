@@ -1,0 +1,25 @@
+'''Member of:''' [[RefCollectionAlias Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Event OnItemEquipped(ObjectReference akSenderRef, Form akBaseObject, ObjectReference akReference)
+</source>
+
+== Parameters ==
+*akSenderRef: Placeholder Description.
+*akBaseObject: Placeholder Description.
+*akReference: Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]
+[[Category: Events]]

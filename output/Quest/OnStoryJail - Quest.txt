@@ -1,0 +1,25 @@
+'''Member of:''' [[Quest Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Event OnStoryJail(ObjectReference akGuard, Form akCrimeGroup, Location akLocation)
+</source>
+
+== Parameters ==
+*akGuard: Placeholder Description.
+*akCrimeGroup: Placeholder Description.
+*akLocation: Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]
+[[Category: Events]]

@@ -1,0 +1,28 @@
+'''Member of:''' [[Game Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function PlayBink(string akAsFileName, bool akAbInterruptible = false, bool akAbMuteAudio = true, bool akAbMuteMusic = true)
+</source>
+
+== Parameters ==
+*akAsFileName: Placeholder Description.
+*akAbInterruptible: Placeholder Description.
+*akAbMuteAudio: Placeholder Description.
+*akAbMuteMusic: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

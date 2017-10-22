@@ -1,0 +1,27 @@
+'''Member of:''' [[Game Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function SetInChargen(bool akAbDisableSaving, bool akAbDisableWaiting, bool akAbShowControlsDisabledMessage) Native Global
+</source>
+
+== Parameters ==
+*akAbDisableSaving: Placeholder Description.
+*akAbDisableWaiting: Placeholder Description.
+*akAbShowControlsDisabledMessage: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

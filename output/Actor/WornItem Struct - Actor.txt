@@ -1,0 +1,33 @@
+'''F4SE Member of:''' [[Actor Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Struct WornItem
+    Form Item
+    Form Model
+    string ModelName
+    Form MaterialSwap
+    TextureSet Texture
+EndStruct
+</source>
+
+== Members ==
+*Item: Placeholder Description.
+*Model: Placeholder Description.
+*ModelName: Placeholder Description.
+*MaterialSwap: Placeholder Description.
+*Texture: Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]
+[[Category: F4SE]]

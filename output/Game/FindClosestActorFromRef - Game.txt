@@ -1,0 +1,26 @@
+'''Member of:''' [[Game Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Actor Function FindClosestActorFromRef(ObjectReference akArCenter, float akAfRadius) Global
+</source>
+
+== Parameters ==
+*akArCenter: Placeholder Description.
+*akAfRadius: Placeholder Description.
+
+== Return Value ==
+*Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

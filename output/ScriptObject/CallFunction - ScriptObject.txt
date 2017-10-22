@@ -1,0 +1,26 @@
+'''Member of:''' [[ScriptObject Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Var Function CallFunction(string akAsFuncName, Var[] akAParams) Native
+</source>
+
+== Parameters ==
+*akAsFuncName: Placeholder Description.
+*akAParams: Placeholder Description.
+
+== Return Value ==
+*Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

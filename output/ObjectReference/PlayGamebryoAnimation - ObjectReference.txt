@@ -1,0 +1,27 @@
+'''Member of:''' [[ObjectReference Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+bool Function PlayGamebryoAnimation(string akAsAnimation, bool akAbStartOver = false, float akAfEaseInTime = 0.0) Native
+</source>
+
+== Parameters ==
+*akAsAnimation: Placeholder Description.
+*akAbStartOver: Placeholder Description.
+*akAfEaseInTime: Placeholder Description.
+
+== Return Value ==
+*Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

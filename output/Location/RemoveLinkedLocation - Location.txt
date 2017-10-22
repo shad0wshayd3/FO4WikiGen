@@ -1,0 +1,26 @@
+'''Member of:''' [[Location Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function RemoveLinkedLocation(Location akLoc, Keyword akKeyword) Native
+</source>
+
+== Parameters ==
+*akLoc: Placeholder Description.
+*akKeyword: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]

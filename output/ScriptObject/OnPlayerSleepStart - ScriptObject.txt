@@ -1,0 +1,25 @@
+'''Member of:''' [[ScriptObject Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Event OnPlayerSleepStart(float akAfSleepStartTime, float akAfDesiredSleepEndTime, ObjectReference akBed)
+</source>
+
+== Parameters ==
+*akAfSleepStartTime: Placeholder Description.
+*akAfDesiredSleepEndTime: Placeholder Description.
+*akBed: Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Placeholder Thing]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]
+[[Category: Events]]
