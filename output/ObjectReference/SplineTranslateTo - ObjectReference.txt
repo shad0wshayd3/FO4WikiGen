@@ -27,7 +27,8 @@ Function SplineTranslateTo(float akAfX, float akAfY, float akAfZ, float akAfXAng
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ObjectReference Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

@@ -20,7 +20,8 @@ Function TraceStack(string akAsTextToPrint = "Tracing, int akAiSeverity = 0) Nat
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Debug Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

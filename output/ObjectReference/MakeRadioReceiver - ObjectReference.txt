@@ -23,7 +23,8 @@ Function MakeRadioReceiver(float akAfFrequency, float akAfVolume = 1.0, OutputMo
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ObjectReference Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

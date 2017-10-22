@@ -20,7 +20,8 @@ float Function pow(float afX, float afY) Native Global
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Math Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

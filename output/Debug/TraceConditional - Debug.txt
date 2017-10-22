@@ -21,7 +21,8 @@ Function TraceConditional(string asTextToPrint, bool abShowTrace, int aiSeverity
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Debug Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

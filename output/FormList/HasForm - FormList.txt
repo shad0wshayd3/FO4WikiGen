@@ -19,7 +19,8 @@ bool Function HasForm(Form akForm) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[FormList Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

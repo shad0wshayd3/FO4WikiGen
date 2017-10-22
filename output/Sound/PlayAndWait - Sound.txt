@@ -19,7 +19,8 @@ bool Function PlayAndWait(ObjectReference akSource) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Sound Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

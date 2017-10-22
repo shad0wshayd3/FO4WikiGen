@@ -22,7 +22,8 @@ Function PlayBink(string akAsFileName, bool akAbInterruptible = false, bool akAb
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Game Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

@@ -22,7 +22,8 @@ Actor Function FindRandomActor(float akAfX, float akAfY, float akAfZ, float akAf
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Game Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

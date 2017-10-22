@@ -19,7 +19,8 @@ float Function GetAnimationVariableFloat(string asArVariableName) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ObjectReference Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

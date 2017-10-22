@@ -19,7 +19,8 @@ bool Function IsInMenuMode() Native Global
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Utility Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

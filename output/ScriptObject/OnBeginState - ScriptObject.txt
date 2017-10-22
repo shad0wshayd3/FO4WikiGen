@@ -16,8 +16,9 @@ Event OnBeginState(string akAsOldState)
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ScriptObject Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
 [[Category: Events]]
+

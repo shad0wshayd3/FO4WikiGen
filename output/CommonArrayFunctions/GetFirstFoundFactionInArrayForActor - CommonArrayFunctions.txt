@@ -20,7 +20,8 @@ Faction Function GetFirstFoundFactionInArrayForActor(Actor akActorToCheck, Facti
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[CommonArrayFunctions Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

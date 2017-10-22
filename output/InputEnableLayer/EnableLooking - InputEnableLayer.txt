@@ -19,7 +19,8 @@ Function EnableLooking(bool akAbEnable = true) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[InputEnableLayer Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

@@ -20,7 +20,8 @@ Function RegisterForCustomEvent(ScriptObject akSender, CustomEventName akAsEvent
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ScriptObject Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

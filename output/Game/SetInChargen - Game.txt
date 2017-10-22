@@ -21,7 +21,8 @@ Function SetInChargen(bool akAbDisableSaving, bool akAbDisableWaiting, bool akAb
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Game Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

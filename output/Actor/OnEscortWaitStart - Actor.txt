@@ -16,8 +16,9 @@ Event OnEscortWaitStart()
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Actor Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
 [[Category: Events]]
+

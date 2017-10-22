@@ -20,7 +20,8 @@ Function PopTo(ImageSpaceModifier akNewModifier, float akAfStrength = 1.0) Nativ
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ImageSpaceModifier Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

@@ -19,7 +19,8 @@ float Function cos(float akAfValue) Native Global
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Math Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

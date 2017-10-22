@@ -22,8 +22,9 @@ Event OnTrapHitStart(ObjectReference akTarget, float akAfXVel, float akAfYVel, f
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ActiveMagicEffect Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
 [[Category: Events]]
+

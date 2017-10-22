@@ -17,8 +17,9 @@ Event OnStoryDiscoverDeadBody(ObjectReference akActor, ObjectReference akDeadAct
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Quest Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
 [[Category: Events]]
+

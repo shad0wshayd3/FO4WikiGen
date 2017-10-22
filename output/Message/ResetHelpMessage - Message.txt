@@ -19,7 +19,8 @@ Function ResetHelpMessage(string akAsEvent) Native Global
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Message Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

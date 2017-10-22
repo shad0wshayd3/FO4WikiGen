@@ -19,7 +19,8 @@ Function SetRadioVolume(float akAfVolume) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ObjectReference Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

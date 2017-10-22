@@ -18,8 +18,9 @@ Event OnMagicEffectApply(ObjectReference akTarget, ObjectReference akCaster, Mag
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ScriptObject Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
 [[Category: Events]]
+

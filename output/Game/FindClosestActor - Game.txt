@@ -22,7 +22,8 @@ Actor Function FindClosestActor(float akAfX, float akAfY, float akAfZ, float akA
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Game Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

@@ -17,8 +17,9 @@ Event OnPipboyRadioDetection(ObjectReference akSenderRef, bool akAbDetected)
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[RefCollectionAlias Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
 [[Category: Events]]
+

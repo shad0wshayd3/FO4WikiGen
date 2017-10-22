@@ -17,8 +17,9 @@ Event OnTutorialEvent(String akAsEventName, Message akAMessage)
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ScriptObject Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
 [[Category: Events]]
+

@@ -19,7 +19,8 @@ Ammo Function GetAmmo() Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Weapon Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

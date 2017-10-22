@@ -22,7 +22,8 @@ Function EnablePlayerControls(bool akAbMovement = true, bool akAbFighting = true
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[InputEnableLayer Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

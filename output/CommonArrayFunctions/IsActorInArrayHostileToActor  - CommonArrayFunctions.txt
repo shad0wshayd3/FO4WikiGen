@@ -20,7 +20,8 @@ bool Function IsActorInArrayHostileToActor (Actor akActorToCheck, ObjectReferenc
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[CommonArrayFunctions Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

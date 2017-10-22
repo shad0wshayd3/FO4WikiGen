@@ -21,7 +21,8 @@ Function SetAlly(Faction akOther, bool akAbSelfIsFriendToOther = false, bool akA
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Faction Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

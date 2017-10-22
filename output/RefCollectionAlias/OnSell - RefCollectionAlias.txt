@@ -17,8 +17,9 @@ Event OnSell(ObjectReference akSenderRef, Actor akSeller)
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[RefCollectionAlias Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
 [[Category: Events]]
+

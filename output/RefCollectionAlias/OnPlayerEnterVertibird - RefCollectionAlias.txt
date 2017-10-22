@@ -17,8 +17,9 @@ Event OnPlayerEnterVertibird(ObjectReference akSenderRef, ObjectReference akVert
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[RefCollectionAlias Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
 [[Category: Events]]
+

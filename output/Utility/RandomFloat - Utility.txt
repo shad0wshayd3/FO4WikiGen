@@ -20,7 +20,8 @@ float Function RandomFloat(float akAfMin = 0.0, float akAfMax = 1.0) Native Glob
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Utility Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

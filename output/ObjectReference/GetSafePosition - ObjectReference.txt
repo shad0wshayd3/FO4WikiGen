@@ -20,7 +20,8 @@ float[] Function GetSafePosition(float afASearchRadius = -1.0, float afASafeRadi
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ObjectReference Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

@@ -19,7 +19,8 @@ Function Add() Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Topic Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

@@ -21,7 +21,8 @@ Function RegisterForDistanceGreaterThanEvent(ScriptObject akObj1, ScriptObject a
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ScriptObject Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

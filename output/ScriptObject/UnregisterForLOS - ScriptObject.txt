@@ -20,7 +20,8 @@ Function UnregisterForLOS(ObjectReference akViewer, ObjectReference akTarget) Na
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ScriptObject Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

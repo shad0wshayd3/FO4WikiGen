@@ -16,8 +16,9 @@ Event OnChange(Actor akActor)
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Package Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
 [[Category: Events]]
+

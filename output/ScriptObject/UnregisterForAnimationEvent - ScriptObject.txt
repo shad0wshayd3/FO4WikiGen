@@ -20,7 +20,8 @@ Function UnregisterForAnimationEvent(ObjectReference akSender, string akAsEventN
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ScriptObject Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

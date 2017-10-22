@@ -17,8 +17,9 @@ Event OnCommandModeCompleteCommand(int aiAeCommandType, ObjectReference akTarget
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Actor Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
 [[Category: Events]]
+

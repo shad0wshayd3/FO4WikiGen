@@ -1,4 +1,4 @@
-'''F4SE Member of:''' [[Component Script]]
+'''Member of:''' [[Component Script]]
 
 Placeholder Description.
 
@@ -19,8 +19,8 @@ Function SetScrapItem(MiscObject akMisc) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Component Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
-[[Category: F4SE]]
+

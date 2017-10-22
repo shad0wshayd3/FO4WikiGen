@@ -19,7 +19,8 @@ int Function GetAnimationVariableInt(string asArVariableName) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ObjectReference Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

@@ -18,8 +18,9 @@ Event OnPlayerSleepStart(float akAfSleepStartTime, float akAfDesiredSleepEndTime
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ScriptObject Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
 [[Category: Events]]
+

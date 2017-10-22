@@ -17,8 +17,9 @@ Event OnTrackedStatsEvent(string asArStatName, int akAiStatValue)
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ScriptObject Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
 [[Category: Events]]
+

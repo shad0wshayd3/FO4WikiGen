@@ -20,7 +20,8 @@ bool Function HasCommonParent(Location akOther, Keyword akFilter = None) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Location Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

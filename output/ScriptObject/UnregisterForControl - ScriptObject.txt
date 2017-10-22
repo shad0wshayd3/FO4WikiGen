@@ -1,4 +1,4 @@
-'''F4SE Member of:''' [[ScriptObject Script]]
+'''Member of:''' [[ScriptObject Script]]
 
 Placeholder Description.
 
@@ -19,8 +19,8 @@ Function UnregisterForControl(string asControl) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ScriptObject Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
-[[Category: F4SE]]
+

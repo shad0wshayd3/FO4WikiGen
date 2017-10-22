@@ -1,4 +1,4 @@
-'''F4SE Member of:''' [[InstanceData Script]]
+'''Member of:''' [[InstanceData Script]]
 
 Placeholder Description.
 
@@ -20,8 +20,8 @@ Function SetAmmoCapacity(Owner akOwner, int aiCapacity) Native Global
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[InstanceData Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
-[[Category: F4SE]]
+

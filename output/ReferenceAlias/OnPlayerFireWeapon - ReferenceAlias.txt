@@ -16,8 +16,9 @@ Event OnPlayerFireWeapon(Form akBaseObject)
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ReferenceAlias Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
 [[Category: Events]]
+

@@ -17,8 +17,9 @@ Event OnGetUp(ObjectReference akSenderRef, ObjectReference akFurniture)
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[RefCollectionAlias Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
 [[Category: Events]]
+

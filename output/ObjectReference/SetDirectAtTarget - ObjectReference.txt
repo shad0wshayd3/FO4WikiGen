@@ -19,7 +19,8 @@ Function SetDirectAtTarget(ObjectReference akTarget) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ObjectReference Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

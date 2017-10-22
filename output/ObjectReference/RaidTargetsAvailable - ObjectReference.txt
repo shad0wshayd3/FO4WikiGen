@@ -28,7 +28,8 @@ int Function RaidTargetsAvailable(Keyword akActionKW, Message akAstrConfirm = No
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ObjectReference Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

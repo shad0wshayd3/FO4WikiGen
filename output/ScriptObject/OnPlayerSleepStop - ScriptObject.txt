@@ -17,8 +17,9 @@ Event OnPlayerSleepStop(bool akAbInterrupted, ObjectReference akBed)
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ScriptObject Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
 [[Category: Events]]
+

@@ -20,7 +20,8 @@ Function StartStackRootProfiling(string akAsScriptName, ScriptObject akObj = Non
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Debug Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

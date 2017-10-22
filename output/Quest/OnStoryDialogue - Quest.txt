@@ -18,8 +18,9 @@ Event OnStoryDialogue(Location akLocation, ObjectReference akActor1, ObjectRefer
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Quest Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
 [[Category: Events]]
+

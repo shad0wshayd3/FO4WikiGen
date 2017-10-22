@@ -19,7 +19,8 @@ Function StopInstance(int akAiPlaybackInstance) Native Global
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Sound Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

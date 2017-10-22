@@ -19,7 +19,8 @@ Package Function GetTemplate() Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Package Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

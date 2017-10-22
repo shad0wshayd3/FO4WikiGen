@@ -19,7 +19,8 @@ Function RemoveCrossFade(float akAfFadeDuration = 1.0) Native Global
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ImageSpaceModifier Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

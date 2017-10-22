@@ -20,7 +20,8 @@ Function AddPerk(Perk akPerk, bool akAbNotify=false) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Actor Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

@@ -18,8 +18,9 @@ Event OnLocationChange(ObjectReference akSenderRef, Location akOldLoc, Location 
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[RefCollectionAlias Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
 [[Category: Events]]
+

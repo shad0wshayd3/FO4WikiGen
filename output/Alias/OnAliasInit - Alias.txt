@@ -16,8 +16,9 @@ Event OnAliasInit()
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Alias Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
 [[Category: Events]]
+

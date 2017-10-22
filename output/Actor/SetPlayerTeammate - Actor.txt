@@ -21,7 +21,8 @@ Function SetPlayerTeammate(bool akAbTeammate = true, bool akAbCanDoFavor=true, b
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Actor Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

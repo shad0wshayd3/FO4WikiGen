@@ -19,7 +19,8 @@ Function StopScriptProfiling(string akAsScriptName) Native Global
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Debug Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

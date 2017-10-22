@@ -16,7 +16,8 @@ EndStruct
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ConstructibleObject Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

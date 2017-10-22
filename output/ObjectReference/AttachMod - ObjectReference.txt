@@ -20,7 +20,8 @@ bool Function AttachMod(ObjectMod akMod, int akAiAttachIndex = 0) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ObjectReference Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

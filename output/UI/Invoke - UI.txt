@@ -1,4 +1,4 @@
-'''F4SE Member of:''' [[UI Script]]
+'''Member of:''' [[UI Script]]
 
 Placeholder Description.
 
@@ -21,8 +21,8 @@ Var Function Invoke(string asMenu, string asPath, Var[] akArgs = None) Native Gl
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[UI Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
-[[Category: F4SE]]
+

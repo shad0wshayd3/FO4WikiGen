@@ -1,4 +1,4 @@
-'''F4SE Member of:''' [[Game Script]]
+'''Member of:''' [[Game Script]]
 
 Placeholder Description.
 
@@ -19,8 +19,8 @@ ObjectReference Function GetCurrentConsoleRef() Native Global
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Game Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
-[[Category: F4SE]]
+

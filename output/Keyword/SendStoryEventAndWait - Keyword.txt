@@ -21,7 +21,8 @@ bool Function SendStoryEventAndWait(Location akLoc = None, ObjectReference akRef
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Keyword Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

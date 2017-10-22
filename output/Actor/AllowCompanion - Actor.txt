@@ -20,7 +20,8 @@ Function AllowCompanion(bool abMakeCompanionIfNoneCurrently = true, bool abForce
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Actor Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

@@ -20,7 +20,8 @@ int Function FindInReferenceAliasArray(ObjectReference akObjectToCheck, Referenc
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[CommonArrayFunctions Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

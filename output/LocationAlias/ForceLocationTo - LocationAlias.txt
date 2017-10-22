@@ -19,7 +19,8 @@ Function ForceLocationTo(Location akNewLocation) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[LocationAlias Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

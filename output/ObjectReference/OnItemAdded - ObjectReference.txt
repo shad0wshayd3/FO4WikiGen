@@ -19,8 +19,9 @@ Event OnItemAdded(Form akBaseItem, int akAiItemCount, ObjectReference akItemRefe
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ObjectReference Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
 [[Category: Events]]
+

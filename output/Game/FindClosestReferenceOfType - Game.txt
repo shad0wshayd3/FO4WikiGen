@@ -23,7 +23,8 @@ ObjectReference Function FindClosestReferenceOfType(Form akArBaseObject, float a
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Game Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

@@ -19,7 +19,8 @@ int Function GetObjectComponentCount( akComponent = ) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[MiscObject Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

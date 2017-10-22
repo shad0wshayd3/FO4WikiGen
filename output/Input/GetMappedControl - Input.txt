@@ -1,4 +1,4 @@
-'''F4SE Member of:''' [[Input Script]]
+'''Member of:''' [[Input Script]]
 
 Placeholder Description.
 
@@ -19,8 +19,8 @@ string Function GetMappedControl(int aiKeycode) Native Global
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Input Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
-[[Category: F4SE]]
+

@@ -19,7 +19,8 @@ Function ReleaseOverride() Native Global
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Weather Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

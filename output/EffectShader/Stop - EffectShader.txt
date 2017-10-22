@@ -19,7 +19,8 @@ Function Stop(ObjectReference akObject) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[EffectShader Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

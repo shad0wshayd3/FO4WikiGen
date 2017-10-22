@@ -17,8 +17,9 @@ Event OnAction(int aiAuiActionID, ReferenceAlias akAlias)
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Scene Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
 [[Category: Events]]
+

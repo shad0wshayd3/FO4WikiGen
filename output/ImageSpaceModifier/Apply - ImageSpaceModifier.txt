@@ -19,7 +19,8 @@ Function Apply(float akAfStrength = 1.0) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ImageSpaceModifier Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

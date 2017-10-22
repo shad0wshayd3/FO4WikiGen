@@ -19,7 +19,8 @@ Function UnshowAsHelpMessage() Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Message Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

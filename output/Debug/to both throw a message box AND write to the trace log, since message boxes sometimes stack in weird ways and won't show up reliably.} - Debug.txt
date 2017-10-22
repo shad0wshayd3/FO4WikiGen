@@ -20,7 +20,8 @@ Placeholder Description.
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Debug Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

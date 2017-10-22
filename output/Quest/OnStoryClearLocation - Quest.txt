@@ -16,8 +16,9 @@ Event OnStoryClearLocation(Location akOldLocation)
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Quest Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
 [[Category: Events]]
+

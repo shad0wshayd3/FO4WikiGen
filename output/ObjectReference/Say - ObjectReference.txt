@@ -22,7 +22,8 @@ Function Say(Topic akTopicToSay, Actor akActorToSpeakAs = None, bool akAbSpeakIn
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ObjectReference Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

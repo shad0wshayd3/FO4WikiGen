@@ -19,7 +19,8 @@ float Function CenterOnCellAndWait(string akAsCellname) Native Global
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Debug Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

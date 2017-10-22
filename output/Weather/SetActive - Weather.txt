@@ -20,7 +20,8 @@ Function SetActive( akBool, bool akAbAccelerate=false) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Weather Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

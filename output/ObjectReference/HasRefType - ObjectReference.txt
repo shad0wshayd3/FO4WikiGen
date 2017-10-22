@@ -19,7 +19,8 @@ bool Function HasRefType(LocationRefType akRefType)
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ObjectReference Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

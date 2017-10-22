@@ -19,7 +19,8 @@ Form Function GetAssociatedForm() Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Furniture Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

@@ -17,8 +17,9 @@ Event OnPackageStart(ObjectReference akSenderRef, Package akNewPackage)
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[RefCollectionAlias Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
 [[Category: Events]]
+

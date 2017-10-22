@@ -17,8 +17,9 @@ Event OnBegin(ObjectReference akSpeakerRef, bool akAbHasBeenSaid)
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[TopicInfo Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
 [[Category: Events]]
+

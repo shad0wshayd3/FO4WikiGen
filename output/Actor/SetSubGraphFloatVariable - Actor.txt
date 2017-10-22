@@ -20,7 +20,8 @@ Function SetSubGraphFloatVariable(string akAsVariableName, float akAfValue) Nati
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Actor Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

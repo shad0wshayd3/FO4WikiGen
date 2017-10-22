@@ -19,7 +19,8 @@ CommonPropertiesScript Function GetCommonProperties() Global
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Game Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

@@ -19,7 +19,8 @@ float Function atan(float akAfValue) Native Global
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Math Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

@@ -18,8 +18,9 @@ Event OnStoryCraftItem(ObjectReference akBench, Location akLocation, Form akCrea
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Quest Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
 [[Category: Events]]
+

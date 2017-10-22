@@ -19,7 +19,8 @@ Function SetPlayerHasTaken(bool akAbTaken = true) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ObjectReference Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

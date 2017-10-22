@@ -1,4 +1,4 @@
-'''F4SE Member of:''' [[ObjectMod Script]]
+'''Member of:''' [[ObjectMod Script]]
 
 Placeholder Description.
 
@@ -26,8 +26,8 @@ EndStruct
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ObjectMod Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
-[[Category: F4SE]]
+

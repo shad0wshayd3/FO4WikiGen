@@ -19,7 +19,8 @@ Function Remove(Float akAfFadeOutTime = 0.0) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ShaderParticleGeometry Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

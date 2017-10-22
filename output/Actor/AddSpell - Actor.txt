@@ -20,7 +20,8 @@ bool Function AddSpell(Spell akSpell, bool akAbVerbose=true) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Actor Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

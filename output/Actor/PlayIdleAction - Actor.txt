@@ -20,7 +20,8 @@ bool Function PlayIdleAction(Action akAAction, ObjectReference akATarget = None)
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Actor Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

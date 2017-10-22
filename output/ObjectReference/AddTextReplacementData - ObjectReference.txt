@@ -20,7 +20,8 @@ Function AddTextReplacementData(string akAsTokenLabel, Form akForm) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ObjectReference Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

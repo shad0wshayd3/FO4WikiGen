@@ -1,4 +1,4 @@
-'''F4SE Member of:''' [[Cell Script]]
+'''Member of:''' [[Cell Script]]
 
 Placeholder Description.
 
@@ -19,8 +19,8 @@ WaterType Function GetWaterType() Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Cell Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
-[[Category: F4SE]]
+

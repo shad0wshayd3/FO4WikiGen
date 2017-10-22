@@ -1,4 +1,4 @@
-'''F4SE Member of:''' [[MiscObject Script]]
+'''Member of:''' [[MiscObject Script]]
 
 Placeholder Description.
 
@@ -19,8 +19,8 @@ MiscComponent[] Function GetMiscComponents() Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[MiscObject Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
-[[Category: F4SE]]
+

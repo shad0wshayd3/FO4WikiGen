@@ -17,8 +17,9 @@ Event OnLostLOS(ObjectReference akViewer, ObjectReference akTarget)
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ScriptObject Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
 [[Category: Events]]
+

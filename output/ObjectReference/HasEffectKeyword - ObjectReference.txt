@@ -19,7 +19,8 @@ bool Function HasEffectKeyword(Keyword akKeyword) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ObjectReference Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

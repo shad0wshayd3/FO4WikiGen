@@ -17,8 +17,9 @@ Event OnPowerOn(ObjectReference akSenderRef, ObjectReference akPowerGenerator)
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[RefCollectionAlias Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
 [[Category: Events]]
+

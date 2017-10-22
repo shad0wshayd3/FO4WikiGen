@@ -18,8 +18,9 @@ Event OnPlayerModArmorWeapon(ObjectReference akSenderRef, Form akBaseObject, Obj
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[RefCollectionAlias Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
 [[Category: Events]]
+

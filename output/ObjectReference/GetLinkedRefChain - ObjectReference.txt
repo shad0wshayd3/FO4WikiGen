@@ -20,7 +20,8 @@ ObjectReference[] Function GetLinkedRefChain(keyword akApKeyword = None, int aiI
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ObjectReference Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

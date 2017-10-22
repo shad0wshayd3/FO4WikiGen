@@ -24,7 +24,8 @@ Function ShowAsHelpMessage(string akAsEvent, float akAfDuration, float akAfInter
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Message Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

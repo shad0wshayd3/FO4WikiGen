@@ -21,7 +21,8 @@ Var Function CallGlobalFunction(string akAsScriptName, string akAsFuncName, Var[
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Utility Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

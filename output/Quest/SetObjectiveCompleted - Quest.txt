@@ -20,7 +20,8 @@ Function SetObjectiveCompleted(int akAiObjective, bool akAbCompleted = true) Nat
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Quest Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

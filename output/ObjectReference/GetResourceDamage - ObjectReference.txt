@@ -19,7 +19,8 @@ float Function GetResourceDamage(ActorValue akValue=None) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ObjectReference Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

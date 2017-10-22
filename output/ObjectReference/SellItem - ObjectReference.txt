@@ -24,7 +24,8 @@ int Function SellItem(Form akItem, int aiValue, int aiAmountToSell = -1, bool ab
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ObjectReference Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

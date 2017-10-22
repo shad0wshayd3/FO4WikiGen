@@ -19,7 +19,8 @@ Function SetValue(float akAfNewValue) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[GlobalVariable Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

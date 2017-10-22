@@ -20,7 +20,8 @@ Function SetMotionType(int aiAeMotionType, bool akAbAllowActivate = true) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ObjectReference Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

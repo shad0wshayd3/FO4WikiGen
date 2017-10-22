@@ -19,7 +19,8 @@ bool Function PlayerKnows() Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Form Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

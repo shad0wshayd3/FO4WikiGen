@@ -1,4 +1,4 @@
-'''F4SE Member of:''' [[Form Script]]
+'''Member of:''' [[Form Script]]
 
 Placeholder Description.
 
@@ -19,8 +19,8 @@ string Function GetDescription() Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Form Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
-[[Category: F4SE]]
+

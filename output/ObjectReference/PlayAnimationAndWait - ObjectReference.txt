@@ -20,7 +20,8 @@ bool Function PlayAnimationAndWait(string akAsAnimation, string akAsEventName) N
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ObjectReference Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

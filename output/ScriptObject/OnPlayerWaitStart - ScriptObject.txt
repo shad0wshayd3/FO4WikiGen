@@ -17,8 +17,9 @@ Event OnPlayerWaitStart(float akAfWaitStartTime, float akAfDesiredWaitEndTime)
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ScriptObject Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
 [[Category: Events]]
+

@@ -19,7 +19,8 @@ Function LearnAllEffects() Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Ingredient Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

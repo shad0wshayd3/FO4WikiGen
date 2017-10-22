@@ -26,7 +26,8 @@ bool Function PlayImpactEffect(ImpactDataSet akImpactEffect, string akAsNodeName
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ObjectReference Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

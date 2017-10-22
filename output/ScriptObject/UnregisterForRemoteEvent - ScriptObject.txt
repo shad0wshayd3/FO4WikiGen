@@ -20,7 +20,8 @@ Function UnregisterForRemoteEvent(ScriptObject akEventSource, ScriptEventName ak
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ScriptObject Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

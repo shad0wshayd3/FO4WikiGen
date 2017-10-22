@@ -17,8 +17,9 @@ Event OnPlayerFireWeapon(ObjectReference akSenderRef, Form akBaseObject)
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[RefCollectionAlias Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
 [[Category: Events]]
+

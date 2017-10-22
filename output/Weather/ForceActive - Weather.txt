@@ -19,7 +19,8 @@ Function ForceActive( akBool = ) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Weather Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

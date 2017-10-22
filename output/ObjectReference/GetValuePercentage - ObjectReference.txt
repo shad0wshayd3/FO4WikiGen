@@ -19,7 +19,8 @@ float Function GetValuePercentage(ActorValue akAV) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ObjectReference Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

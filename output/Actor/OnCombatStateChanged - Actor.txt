@@ -17,8 +17,9 @@ Event OnCombatStateChanged(Actor akTarget, int aiAeCombatState)
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Actor Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
 [[Category: Events]]
+

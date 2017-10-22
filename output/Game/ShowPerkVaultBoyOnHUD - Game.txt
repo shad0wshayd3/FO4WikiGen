@@ -20,7 +20,8 @@ Function ShowPerkVaultBoyOnHUD(string asAVaultBoySwf, Sound akASoundDescriptor =
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Game Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

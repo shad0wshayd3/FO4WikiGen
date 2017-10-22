@@ -16,8 +16,9 @@ Event OnKill(Actor akVictim)
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ActiveMagicEffect Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
 [[Category: Events]]
+

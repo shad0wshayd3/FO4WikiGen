@@ -1,4 +1,4 @@
-'''F4SE Member of:''' [[ActorBase Script]]
+'''Member of:''' [[ActorBase Script]]
 
 Placeholder Description.
 
@@ -19,8 +19,8 @@ HeadPart[] Function GetHeadParts(bool abBOverlays = false) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ActorBase Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
-[[Category: F4SE]]
+

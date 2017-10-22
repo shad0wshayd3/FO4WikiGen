@@ -19,7 +19,8 @@ Function SetFogPower(float akAfPower) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Cell Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

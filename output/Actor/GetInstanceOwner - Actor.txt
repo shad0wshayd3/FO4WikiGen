@@ -1,4 +1,4 @@
-'''F4SE Member of:''' [[Actor Script]]
+'''Member of:''' [[Actor Script]]
 
 Placeholder Description.
 
@@ -19,8 +19,8 @@ InstanceData:Owner Function GetInstanceOwner(int aiSlotIndex)
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Actor Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
-[[Category: F4SE]]
+

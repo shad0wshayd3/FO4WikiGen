@@ -19,7 +19,8 @@ Function StartWorkshop(bool akAbStart = true) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ObjectReference Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

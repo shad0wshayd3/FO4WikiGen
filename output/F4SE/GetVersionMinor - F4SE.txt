@@ -1,4 +1,4 @@
-'''F4SE Member of:''' [[F4SE Script]]
+'''Member of:''' [[F4SE Script]]
 
 Placeholder Description.
 
@@ -19,8 +19,8 @@ int Function GetVersionMinor() Native Global
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[F4SE Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
-[[Category: F4SE]]
+

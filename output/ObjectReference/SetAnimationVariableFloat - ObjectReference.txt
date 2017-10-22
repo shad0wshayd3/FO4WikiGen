@@ -20,7 +20,8 @@ Function SetAnimationVariableFloat(string asArVariableName, float akAfNewValue) 
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ObjectReference Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

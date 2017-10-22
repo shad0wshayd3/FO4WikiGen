@@ -20,7 +20,8 @@ keyword Function GetFirstFoundKeywordInArrayForLocation(Location akLocationToChe
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[CommonArrayFunctions Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

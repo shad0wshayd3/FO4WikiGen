@@ -22,7 +22,8 @@ Function RegisterForDirectLOSGain(ObjectReference akViewer, ObjectReference akTa
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ScriptObject Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

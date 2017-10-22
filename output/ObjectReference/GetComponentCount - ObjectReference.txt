@@ -19,7 +19,8 @@ int Function GetComponentCount(Form akItem = None) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ObjectReference Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

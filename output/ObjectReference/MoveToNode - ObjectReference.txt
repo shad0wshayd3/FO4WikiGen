@@ -21,7 +21,8 @@ Function MoveToNode(ObjectReference akTarget, string akAsNodeName, string akAsMa
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ObjectReference Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

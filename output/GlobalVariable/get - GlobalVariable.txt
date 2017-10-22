@@ -19,7 +19,8 @@ Function get()
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[GlobalVariable Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

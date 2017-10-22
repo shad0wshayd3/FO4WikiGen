@@ -20,7 +20,8 @@ bool Function IsSameLocation(Location akOtherLocation, Keyword akKeyword = None)
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Location Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

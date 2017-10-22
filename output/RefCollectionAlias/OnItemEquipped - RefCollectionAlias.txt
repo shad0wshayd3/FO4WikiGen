@@ -18,8 +18,9 @@ Event OnItemEquipped(ObjectReference akSenderRef, Form akBaseObject, ObjectRefer
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[RefCollectionAlias Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
 [[Category: Events]]
+

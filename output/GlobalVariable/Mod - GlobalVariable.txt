@@ -19,7 +19,8 @@ float Function Mod(float akAfHowMuch)
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[GlobalVariable Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

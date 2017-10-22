@@ -19,7 +19,8 @@ Function SetActive(bool akAbActive = true) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Quest Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

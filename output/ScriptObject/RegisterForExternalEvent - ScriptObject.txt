@@ -1,4 +1,4 @@
-'''F4SE Member of:''' [[ScriptObject Script]]
+'''Member of:''' [[ScriptObject Script]]
 
 Placeholder Description.
 
@@ -20,8 +20,8 @@ Function RegisterForExternalEvent(string asEventName, string asCallback) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ScriptObject Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
-[[Category: F4SE]]
+

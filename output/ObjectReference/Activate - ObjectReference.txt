@@ -20,7 +20,8 @@ bool Function Activate(ObjectReference akActivator, bool akAbDefaultProcessingOn
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ObjectReference Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

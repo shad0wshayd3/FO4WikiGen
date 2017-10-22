@@ -19,7 +19,8 @@ Function set(float akAfValue)
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[GlobalVariable Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

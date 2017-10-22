@@ -19,7 +19,8 @@ bool Function IsFastTravelControlsEnabled() Native Global
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Game Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

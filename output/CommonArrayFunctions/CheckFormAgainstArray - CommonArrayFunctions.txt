@@ -21,7 +21,8 @@ bool Function CheckFormAgainstArray(Form akFormToCheck, Form[] akArrayToCheck, b
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[CommonArrayFunctions Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

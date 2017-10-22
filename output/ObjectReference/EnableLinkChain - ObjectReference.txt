@@ -20,7 +20,8 @@ Function EnableLinkChain(Keyword akApKeyword = None, bool akAbFadeIn = false) Na
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ObjectReference Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

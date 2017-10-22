@@ -1,4 +1,4 @@
-'''F4SE Member of:''' [[ObjectMod Script]]
+'''Member of:''' [[ObjectMod Script]]
 
 Placeholder Description.
 
@@ -19,8 +19,8 @@ Function SetMaxRank(int aiRank) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ObjectMod Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
-[[Category: F4SE]]
+

@@ -19,7 +19,8 @@ bool Function TryToAddToFaction(Faction akFactionToAddTo)
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ReferenceAlias Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

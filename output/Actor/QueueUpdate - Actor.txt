@@ -1,4 +1,4 @@
-'''F4SE Member of:''' [[Actor Script]]
+'''Member of:''' [[Actor Script]]
 
 Placeholder Description.
 
@@ -20,8 +20,8 @@ Function QueueUpdate(bool abBDoEquipment = false, int aiFlags = 0) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Actor Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
-[[Category: F4SE]]
+

@@ -17,8 +17,9 @@ Event OnAnimationEventUnregistered(ObjectReference akSource, string akAsEventNam
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ScriptObject Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
 [[Category: Events]]
+

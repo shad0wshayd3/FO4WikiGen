@@ -19,7 +19,8 @@ Function Stop(ObjectReference akObject) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[VisualEffect Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

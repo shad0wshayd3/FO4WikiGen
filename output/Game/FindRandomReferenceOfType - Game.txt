@@ -23,7 +23,8 @@ ObjectReference Function FindRandomReferenceOfType(Form akArBaseObject, float ak
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Game Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

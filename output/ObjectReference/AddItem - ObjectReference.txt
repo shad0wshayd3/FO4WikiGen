@@ -21,7 +21,8 @@ Function AddItem(Form akItemToAdd, int akAiCount = 1, bool akAbSilent = false) N
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ObjectReference Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

@@ -20,7 +20,8 @@ ObjectReference Function GetNthLinkedRef(int akAiLinkedRef, Keyword akApKeyword 
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ObjectReference Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

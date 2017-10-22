@@ -20,7 +20,8 @@ Function SetActorOwner(ActorBase akActorBase, bool akAbNoCrime = false) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ObjectReference Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

@@ -19,7 +19,8 @@ bool Function ForceRefIfEmpty(ObjectReference akNewRef)
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ReferenceAlias Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

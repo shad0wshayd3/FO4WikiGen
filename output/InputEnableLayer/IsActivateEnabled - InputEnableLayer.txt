@@ -19,7 +19,8 @@ bool Function IsActivateEnabled() Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[InputEnableLayer Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

@@ -19,7 +19,8 @@ Function UnregisterForAllMenuOpenCloseEvents() Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ScriptObject Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

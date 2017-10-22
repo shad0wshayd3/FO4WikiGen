@@ -26,7 +26,8 @@ Function TranslateTo(float akAfX, float akAfY, float akAfZ, float akAfXAngle, fl
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ObjectReference Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

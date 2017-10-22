@@ -1,4 +1,4 @@
-'''F4SE Member of:''' [[EncounterZone Script]]
+'''Member of:''' [[EncounterZone Script]]
 
 Placeholder Description.
 
@@ -19,8 +19,8 @@ int Function GetRank() Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[EncounterZone Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
-[[Category: F4SE]]
+

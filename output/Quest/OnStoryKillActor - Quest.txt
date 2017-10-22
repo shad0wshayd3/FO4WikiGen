@@ -17,8 +17,9 @@ Event OnStoryKillActor(ObjectReference akVictim, ObjectReference akKiller)
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Quest Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
 [[Category: Events]]
+

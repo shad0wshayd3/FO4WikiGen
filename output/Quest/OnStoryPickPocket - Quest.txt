@@ -17,8 +17,9 @@ Event OnStoryPickPocket(ObjectReference akVictim, bool akAbSuccess)
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Quest Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
 [[Category: Events]]
+

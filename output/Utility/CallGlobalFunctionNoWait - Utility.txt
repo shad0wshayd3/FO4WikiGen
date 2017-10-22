@@ -21,7 +21,8 @@ Function CallGlobalFunctionNoWait(string akAsScriptName, string akAsFuncName, Va
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Utility Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

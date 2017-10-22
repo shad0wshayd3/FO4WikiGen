@@ -19,8 +19,9 @@ Event OnItemRemoved(Form akBaseItem, int akAiItemCount, ObjectReference akItemRe
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ObjectReference Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
 [[Category: Events]]
+

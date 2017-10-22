@@ -20,7 +20,8 @@ Function SetObjectiveFailed(int akAiObjective, bool akAbFailed = true) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Quest Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

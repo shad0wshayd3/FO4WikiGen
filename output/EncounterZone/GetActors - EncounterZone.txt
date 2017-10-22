@@ -20,7 +20,8 @@ Actor[] Function GetActors( akKeyword = =, Keyword akApExcludeLinkedRefKeyword =
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[EncounterZone Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

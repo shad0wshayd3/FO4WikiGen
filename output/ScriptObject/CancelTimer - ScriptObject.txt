@@ -19,7 +19,8 @@ Function CancelTimer(int akAiTimerID = 0) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ScriptObject Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

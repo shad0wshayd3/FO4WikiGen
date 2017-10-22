@@ -21,8 +21,9 @@ Event OnHit(ObjectReference akTarget, ObjectReference akAggressor, Form akSource
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ScriptObject Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
 [[Category: Events]]
+

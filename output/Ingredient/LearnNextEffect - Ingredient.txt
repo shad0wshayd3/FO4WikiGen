@@ -19,7 +19,8 @@ int Function LearnNextEffect() Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Ingredient Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

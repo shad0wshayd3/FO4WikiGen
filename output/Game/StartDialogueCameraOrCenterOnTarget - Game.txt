@@ -19,7 +19,8 @@ Function StartDialogueCameraOrCenterOnTarget( akObjectReference = =) Native Glob
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Game Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

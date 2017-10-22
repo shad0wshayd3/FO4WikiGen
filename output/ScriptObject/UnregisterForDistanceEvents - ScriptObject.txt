@@ -20,7 +20,8 @@ Function UnregisterForDistanceEvents(ScriptObject akObj1, ScriptObject akObj2) N
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ScriptObject Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

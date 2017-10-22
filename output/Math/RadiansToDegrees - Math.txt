@@ -19,7 +19,8 @@ float Function RadiansToDegrees(float akAfRadians) Native Global
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Math Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

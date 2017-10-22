@@ -18,8 +18,9 @@ Event OnDistanceLessThan(ObjectReference akObj1, ObjectReference akObj2, float a
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ScriptObject Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
 [[Category: Events]]
+

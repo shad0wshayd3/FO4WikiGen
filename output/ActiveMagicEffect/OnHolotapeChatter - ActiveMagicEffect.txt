@@ -17,8 +17,9 @@ Event OnHolotapeChatter( akString, float akAfNumericData)
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ActiveMagicEffect Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
 [[Category: Events]]
+

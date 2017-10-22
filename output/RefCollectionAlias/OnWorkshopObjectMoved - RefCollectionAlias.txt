@@ -17,8 +17,9 @@ Event OnWorkshopObjectMoved(ObjectReference akSenderRef, ObjectReference akRefer
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[RefCollectionAlias Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
 [[Category: Events]]
+

@@ -21,7 +21,8 @@ Function RemoveComponents(Component akComponent, int akAiCount, bool akAbSilent 
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ObjectReference Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

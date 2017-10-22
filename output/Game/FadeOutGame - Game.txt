@@ -23,7 +23,8 @@ Function FadeOutGame(bool akAbFadingOut, bool akAbBlackFade, float akAfSecsBefor
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Game Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

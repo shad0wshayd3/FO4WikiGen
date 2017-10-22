@@ -20,7 +20,8 @@ Function SetLinkedRef(ObjectReference akLinkedRef, Keyword akApKeyword = NONE) N
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ObjectReference Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

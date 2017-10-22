@@ -26,7 +26,8 @@ bool Function ModObjectiveGlobal(float akAfModValue, GlobalVariable akAModGlobal
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Quest Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

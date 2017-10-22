@@ -21,7 +21,8 @@ Function ShakeController(float akAfSmallMotorStrength, float akAfBigMotorStreang
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Game Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

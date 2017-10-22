@@ -16,8 +16,9 @@ Event OnPlayerHealTeammate(Actor akTeammate)
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ActiveMagicEffect Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
 [[Category: Events]]
+

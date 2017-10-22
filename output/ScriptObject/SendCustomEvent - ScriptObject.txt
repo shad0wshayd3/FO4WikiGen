@@ -20,7 +20,8 @@ Function SendCustomEvent(CustomEventName akAsEvent, Var[] akArgs = None) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ScriptObject Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

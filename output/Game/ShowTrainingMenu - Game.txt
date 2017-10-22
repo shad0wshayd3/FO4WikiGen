@@ -19,7 +19,8 @@ Function ShowTrainingMenu(Actor akATrainer) Native Global
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Game Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

@@ -20,7 +20,8 @@ float Function Min(float akAfValue1, float akAfValue2) Global
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Math Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

@@ -20,7 +20,8 @@ bool Function IsFurnitureMarkerInUse(int akAiMarker, bool akAbIgnoreReserved = f
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ObjectReference Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

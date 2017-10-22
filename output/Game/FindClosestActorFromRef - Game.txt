@@ -20,7 +20,8 @@ Actor Function FindClosestActorFromRef(ObjectReference akArCenter, float akAfRad
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Game Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

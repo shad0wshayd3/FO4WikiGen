@@ -19,7 +19,8 @@ Function Revert() Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[LeveledSpell Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

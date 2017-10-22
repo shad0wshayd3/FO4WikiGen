@@ -22,7 +22,8 @@ Function UnregisterForMagicEffectApplyEvent(ScriptObject akTarget, ScriptObject 
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ScriptObject Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

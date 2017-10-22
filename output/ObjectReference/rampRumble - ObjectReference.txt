@@ -21,7 +21,8 @@ bool Function rampRumble(float afPower = 0.5, float afDuration = 0.25, float afF
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ObjectReference Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

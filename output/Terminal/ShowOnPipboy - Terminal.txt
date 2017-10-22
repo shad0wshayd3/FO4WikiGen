@@ -19,7 +19,8 @@ Function ShowOnPipboy() Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Terminal Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

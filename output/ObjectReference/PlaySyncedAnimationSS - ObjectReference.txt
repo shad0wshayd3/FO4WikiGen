@@ -21,7 +21,8 @@ bool Function PlaySyncedAnimationSS(string akAsAnimation1, ObjectReference akObj
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ObjectReference Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

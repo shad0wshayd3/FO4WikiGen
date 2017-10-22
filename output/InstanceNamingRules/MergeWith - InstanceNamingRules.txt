@@ -19,7 +19,8 @@ Function MergeWith(InstanceNamingRules akASource) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[InstanceNamingRules Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

@@ -20,7 +20,8 @@ Function Play(ObjectReference akObject, float akAfDuration = -1.0) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[EffectShader Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

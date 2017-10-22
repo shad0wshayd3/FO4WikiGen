@@ -21,7 +21,8 @@ Function SetAngle(float akAfXAngle, float akAfYAngle, float akAfZAngle) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ObjectReference Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

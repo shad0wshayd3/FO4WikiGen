@@ -1,4 +1,4 @@
-'''F4SE Member of:''' [[ObjectReference Script]]
+'''Member of:''' [[ObjectReference Script]]
 
 Placeholder Description.
 
@@ -20,8 +20,8 @@ ObjectReference Function AttachWire(ObjectReference akRef, Form akSpline = None)
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ObjectReference Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
-[[Category: F4SE]]
+

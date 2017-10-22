@@ -20,7 +20,8 @@ Function Cast(ObjectReference akSource, ObjectReference akTarget=NONE) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Scroll Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

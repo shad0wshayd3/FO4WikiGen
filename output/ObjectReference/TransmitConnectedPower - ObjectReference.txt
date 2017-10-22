@@ -1,4 +1,4 @@
-'''F4SE Member of:''' [[ObjectReference Script]]
+'''Member of:''' [[ObjectReference Script]]
 
 Placeholder Description.
 
@@ -19,8 +19,8 @@ bool Function TransmitConnectedPower() Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ObjectReference Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
-[[Category: F4SE]]
+

@@ -29,7 +29,8 @@ Function ProcessTrapHit(ObjectReference akTrap, float akAfDamage, float akAfPush
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ObjectReference Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

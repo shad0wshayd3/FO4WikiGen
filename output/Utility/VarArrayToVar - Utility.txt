@@ -1,4 +1,4 @@
-'''F4SE Member of:''' [[Utility Script]]
+'''Member of:''' [[Utility Script]]
 
 Placeholder Description.
 
@@ -19,8 +19,8 @@ Var Function VarArrayToVar(Var[] akV) Native Global
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Utility Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
-[[Category: F4SE]]
+

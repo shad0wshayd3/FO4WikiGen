@@ -23,7 +23,8 @@ bool Function PlaySyncedAnimationAndWaitSS(string akAsAnimation1, string akAsEve
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ObjectReference Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

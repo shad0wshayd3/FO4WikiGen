@@ -21,7 +21,8 @@ bool Function CheckObjectAgainstKeywordArray(ObjectReference akObjectToCheck, Ke
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[CommonArrayFunctions Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

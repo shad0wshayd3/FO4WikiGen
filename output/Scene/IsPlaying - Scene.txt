@@ -19,7 +19,8 @@ bool Function IsPlaying() Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Scene Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

@@ -18,8 +18,9 @@ Event OnStoryScript(Keyword akKeyword, Location akLocation, ObjectReference akRe
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Quest Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
 [[Category: Events]]
+

@@ -21,7 +21,8 @@ Function ChangeHeadPart(headpart akApHeadPart, bool akAbRemovePart = false, bool
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Actor Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

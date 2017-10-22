@@ -20,7 +20,8 @@ Function IncrementStat(string akAsStatName, int akAiModAmount = 1) Native Global
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Game Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

@@ -19,7 +19,8 @@ int Function GetCrimeGold() Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Faction Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

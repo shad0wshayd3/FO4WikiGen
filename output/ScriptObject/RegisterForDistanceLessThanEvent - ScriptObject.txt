@@ -21,7 +21,8 @@ Function RegisterForDistanceLessThanEvent(ScriptObject akObj1, ScriptObject akOb
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ScriptObject Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

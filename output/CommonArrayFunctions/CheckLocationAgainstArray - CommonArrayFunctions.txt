@@ -22,7 +22,8 @@ bool Function CheckLocationAgainstArray(Location akObjectToCheck, Location[] akA
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[CommonArrayFunctions Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

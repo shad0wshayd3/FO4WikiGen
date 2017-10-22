@@ -1,4 +1,4 @@
-'''F4SE Member of:''' [[ScriptObject Script]]
+'''Member of:''' [[ScriptObject Script]]
 
 Placeholder Description.
 
@@ -16,9 +16,9 @@ Event OnControlDown(string asControl)
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ScriptObject Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
 [[Category: Events]]
-[[Category: F4SE]]
+

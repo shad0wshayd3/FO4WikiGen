@@ -20,7 +20,8 @@ Function RestoreValue(ActorValue akAV, float akAfAmount) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ObjectReference Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

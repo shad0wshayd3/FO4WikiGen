@@ -22,7 +22,8 @@ Function RegisterForHitEvent(ScriptObject akTarget, ScriptObject akAggressorFilt
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ScriptObject Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

@@ -17,8 +17,9 @@ Event OnStoryMineExplosion(ObjectReference akVictim, ObjectReference akAttacker)
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Quest Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
 [[Category: Events]]
+

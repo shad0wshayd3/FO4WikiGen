@@ -20,7 +20,8 @@ Function Trace(string akAsTextToPrint, int akAiSeverity = 0) Native Global
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Debug Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

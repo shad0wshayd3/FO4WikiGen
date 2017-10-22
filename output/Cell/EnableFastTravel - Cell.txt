@@ -19,7 +19,8 @@ Function EnableFastTravel(bool akAbEnable = true) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Cell Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

@@ -16,8 +16,9 @@ Event OnActivate(ObjectReference akActionRef)
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ReferenceAlias Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
 [[Category: Events]]
+

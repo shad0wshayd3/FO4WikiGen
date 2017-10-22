@@ -20,7 +20,8 @@ Function SetInstanceVolume(int akAiPlaybackInstance, float akAfVolume) Native Gl
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Sound Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

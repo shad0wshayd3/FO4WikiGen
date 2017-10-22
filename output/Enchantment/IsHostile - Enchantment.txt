@@ -19,7 +19,8 @@ bool Function IsHostile() Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Enchantment Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

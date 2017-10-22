@@ -1,4 +1,4 @@
-'''F4SE Member of:''' [[Input Script]]
+'''Member of:''' [[Input Script]]
 
 Placeholder Description.
 
@@ -20,8 +20,8 @@ int Function GetMappedKey(string asControl, int aiDeviceType = 0xFF) Native Glob
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Input Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
-[[Category: F4SE]]
+

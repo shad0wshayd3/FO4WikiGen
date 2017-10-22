@@ -20,7 +20,8 @@ Form Function GetFormFromFile(int akAiFormID, string akAsFilename) Native Global
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Game Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

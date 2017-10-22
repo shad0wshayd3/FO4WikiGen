@@ -19,7 +19,8 @@ bool Function SetStage(int akAiStage)
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Quest Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

@@ -21,7 +21,8 @@ bool Function PlayGamebryoAnimation(string akAsAnimation, bool akAbStartOver = f
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ObjectReference Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

@@ -20,7 +20,8 @@ ObjectReference Function DropObject(Form akObject, int akAiCount = 1) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ObjectReference Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

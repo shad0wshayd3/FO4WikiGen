@@ -1,4 +1,4 @@
-'''F4SE Member of:''' [[UI Script]]
+'''Member of:''' [[UI Script]]
 
 Placeholder Description.
 
@@ -19,8 +19,8 @@ bool Function IsMenuOpen(string asMenu) Native Global
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[UI Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
-[[Category: F4SE]]
+

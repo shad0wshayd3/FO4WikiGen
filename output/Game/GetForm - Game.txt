@@ -19,7 +19,8 @@ Form Function GetForm(int akAiFormID) Native Global
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Game Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

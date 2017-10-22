@@ -20,7 +20,8 @@ Function AddLinkedLocation(Location akLoc, Keyword akKeyword) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Location Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

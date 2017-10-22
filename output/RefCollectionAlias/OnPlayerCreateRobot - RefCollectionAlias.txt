@@ -17,8 +17,9 @@ Event OnPlayerCreateRobot(ObjectReference akSenderRef, Actor akNewRobot)
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[RefCollectionAlias Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
 [[Category: Events]]
+

@@ -17,8 +17,9 @@ Event OnCommandModeGiveCommand(int aiAeCommandType, ObjectReference akTarget)
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ActiveMagicEffect Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
 [[Category: Events]]
+

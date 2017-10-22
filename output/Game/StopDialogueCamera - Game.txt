@@ -20,7 +20,8 @@ Function StopDialogueCamera( akBool = =, bool akAbSwitchingTo1stP = false) Nativ
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Game Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

@@ -19,7 +19,8 @@ Actor[] Function GetPlayerFollowers( ak) Native Global
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Game Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

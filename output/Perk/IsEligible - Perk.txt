@@ -1,4 +1,4 @@
-'''F4SE Member of:''' [[Perk Script]]
+'''Member of:''' [[Perk Script]]
 
 Placeholder Description.
 
@@ -19,8 +19,8 @@ bool Function IsEligible(Actor akActor) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Perk Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
-[[Category: F4SE]]
+

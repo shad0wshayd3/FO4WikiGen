@@ -1,4 +1,4 @@
-'''F4SE Member of:''' [[ConstructibleObject Script]]
+'''Member of:''' [[ConstructibleObject Script]]
 
 Placeholder Description.
 
@@ -19,8 +19,8 @@ Function SetCreatedCount(int aiCount) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ConstructibleObject Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
-[[Category: F4SE]]
+

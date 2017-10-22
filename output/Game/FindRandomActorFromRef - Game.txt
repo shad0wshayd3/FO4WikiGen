@@ -20,7 +20,8 @@ Actor Function FindRandomActorFromRef(ObjectReference akArCenter, float akAfRadi
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Game Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

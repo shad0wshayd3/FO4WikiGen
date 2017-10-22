@@ -20,7 +20,8 @@ Function SetAnimationVariableBool(string asArVariableName, bool akAbNewValue) Na
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ObjectReference Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

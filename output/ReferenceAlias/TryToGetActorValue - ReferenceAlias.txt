@@ -19,7 +19,8 @@ float Function TryToGetActorValue(ActorValue akActorValueToGet)
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ReferenceAlias Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

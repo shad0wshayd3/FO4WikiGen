@@ -19,7 +19,8 @@ string Function GameTimeToString(float akAfGameTime) Native Global
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Utility Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

@@ -21,7 +21,8 @@ Function RemoteCast(ObjectReference akSource, Actor akBlameActor, ObjectReferenc
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Spell Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

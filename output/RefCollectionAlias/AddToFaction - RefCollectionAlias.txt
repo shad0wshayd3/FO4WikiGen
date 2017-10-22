@@ -19,7 +19,8 @@ Function AddToFaction(faction akFaction)
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[RefCollectionAlias Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

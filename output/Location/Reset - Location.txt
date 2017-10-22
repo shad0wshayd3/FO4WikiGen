@@ -19,7 +19,8 @@ Function Reset() Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Location Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

@@ -23,7 +23,8 @@ Function SplineTranslateToRefNode(ObjectReference akArTarget, string asArNodeNam
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ObjectReference Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

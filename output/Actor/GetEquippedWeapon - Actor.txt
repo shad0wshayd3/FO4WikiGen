@@ -19,7 +19,8 @@ Weapon Function GetEquippedWeapon(int akAiEquipIndex = 0) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Actor Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

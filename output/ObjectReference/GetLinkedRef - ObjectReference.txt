@@ -19,7 +19,8 @@ ObjectReference Function GetLinkedRef(Keyword akApKeyword = NONE) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ObjectReference Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

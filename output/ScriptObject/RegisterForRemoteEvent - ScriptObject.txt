@@ -20,7 +20,8 @@ bool Function RegisterForRemoteEvent(ScriptObject akEventSource, ScriptEventName
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ScriptObject Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

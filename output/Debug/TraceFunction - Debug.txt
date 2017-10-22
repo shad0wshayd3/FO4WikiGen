@@ -20,7 +20,8 @@ Function TraceFunction(string akAsTextToPrint = "Tracing, int akAiSeverity = 0) 
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Debug Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

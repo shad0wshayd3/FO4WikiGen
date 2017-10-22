@@ -22,7 +22,8 @@ Function DisablePlayerControls(bool akAbMovement = true, bool akAbFighting = tru
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[InputEnableLayer Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

@@ -20,7 +20,8 @@ Function BlockActivation(bool akAbBlocked = True, bool akAbHideActivateText = fa
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[RefCollectionAlias Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

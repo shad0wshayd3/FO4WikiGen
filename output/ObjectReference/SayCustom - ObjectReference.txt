@@ -22,7 +22,8 @@ Function SayCustom(Keyword akKeywordToSay, Actor akActorToSpeakAs = None, bool a
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ObjectReference Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

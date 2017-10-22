@@ -19,7 +19,8 @@ Function SetRace( akRace = =) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Actor Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

@@ -20,7 +20,8 @@ int Function CountActors( akKeyword = =, Keyword akApExcludeLinkedRefKeyword = N
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[EncounterZone Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

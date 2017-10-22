@@ -17,8 +17,9 @@ Event OnEffectStart(Actor akTarget, Actor akCaster)
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ActiveMagicEffect Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
 [[Category: Events]]
+

@@ -21,7 +21,8 @@ Function SetConveyorBeltVelocity( akFloat, float akAfLinVelY, float akAfLinVelZ)
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ObjectReference Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

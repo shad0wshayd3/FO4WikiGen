@@ -20,7 +20,8 @@ Function RegisterForDetectionLOSGain(Actor akViewer, ObjectReference akTarget) N
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ScriptObject Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

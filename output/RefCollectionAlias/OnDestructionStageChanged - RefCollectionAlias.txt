@@ -18,8 +18,9 @@ Event OnDestructionStageChanged(ObjectReference akSenderRef, int akAiOldStage, i
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[RefCollectionAlias Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
 [[Category: Events]]
+

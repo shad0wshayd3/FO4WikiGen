@@ -20,7 +20,8 @@ Function AddForm(Form akApForm, int akAiLevel) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[LeveledSpell Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

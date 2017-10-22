@@ -1,4 +1,4 @@
-'''F4SE Member of:''' [[Actor Script]]
+'''Member of:''' [[Actor Script]]
 
 Placeholder Description.
 
@@ -19,8 +19,8 @@ ObjectReference Function GetFurnitureReference() Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Actor Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
-[[Category: F4SE]]
+

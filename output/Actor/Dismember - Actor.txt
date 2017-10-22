@@ -22,7 +22,8 @@ Function Dismember( akString, bool akAbForceExplode = false, bool akAbForceDisme
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Actor Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

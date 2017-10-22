@@ -17,8 +17,9 @@ Event OnMenuItemRun(int aiAuiMenuItemID, ObjectReference akTerminalRef)
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Terminal Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
 [[Category: Events]]
+

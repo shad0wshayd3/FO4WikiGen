@@ -19,7 +19,8 @@ Function ClearHelpMessages() Native Global
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Message Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

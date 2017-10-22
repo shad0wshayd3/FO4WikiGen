@@ -17,8 +17,9 @@ Event OnStoryHackTerminal(ObjectReference akComputer, bool akAbSucceeded)
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Quest Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
 [[Category: Events]]
+

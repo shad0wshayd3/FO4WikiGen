@@ -27,7 +27,8 @@ int Function Show(float akAfArg1 = 0.0, float akAfArg2 = 0.0, float akAfArg3 = 0
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Message Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

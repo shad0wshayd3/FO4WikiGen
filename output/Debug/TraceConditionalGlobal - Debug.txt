@@ -20,7 +20,8 @@ Function TraceConditionalGlobal(string asTextToPrint, GlobalVariable akShowTrace
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Debug Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

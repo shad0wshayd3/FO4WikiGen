@@ -20,7 +20,8 @@ bool Function RegisterForAnimationEvent(ObjectReference akSender, string akAsEve
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ScriptObject Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

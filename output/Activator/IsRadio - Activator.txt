@@ -19,7 +19,8 @@ bool Function IsRadio() Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Activator Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

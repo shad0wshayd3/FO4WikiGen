@@ -1,4 +1,4 @@
-'''F4SE Member of:''' [[WaterType Script]]
+'''Member of:''' [[WaterType Script]]
 
 Placeholder Description.
 
@@ -19,8 +19,8 @@ Spell Function GetConsumeSpell() Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[WaterType Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
-[[Category: F4SE]]
+

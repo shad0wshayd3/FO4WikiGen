@@ -21,7 +21,8 @@ Function SetEnemy(Faction akOther, bool akAbSelfIsNeutralToOther = false, bool a
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Faction Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

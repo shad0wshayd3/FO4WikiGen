@@ -19,7 +19,8 @@ Function SetFactionOwner(Faction akFaction) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Cell Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

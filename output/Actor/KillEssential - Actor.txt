@@ -19,7 +19,8 @@ Function KillEssential(Actor akKiller = None)
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Actor Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

@@ -21,7 +21,8 @@ Function ForceDisableSSRGodraysDirLight( akBool, bool akAbDisableGodrays, bool a
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Game Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

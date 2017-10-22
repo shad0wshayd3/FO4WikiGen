@@ -20,7 +20,8 @@ ObjectReference[] Function GetWorkshopResourceObjects(ActorValue akAV = None, in
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ObjectReference Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

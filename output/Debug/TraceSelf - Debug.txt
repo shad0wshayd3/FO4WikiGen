@@ -21,7 +21,8 @@ Function TraceSelf(ScriptObject akCallingScript, string asFunctionName, string a
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Debug Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

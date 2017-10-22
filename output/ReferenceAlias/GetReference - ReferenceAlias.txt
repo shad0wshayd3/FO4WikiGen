@@ -19,7 +19,8 @@ ObjectReference Function GetReference() Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ReferenceAlias Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

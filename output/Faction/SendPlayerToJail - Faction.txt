@@ -20,7 +20,8 @@ Function SendPlayerToJail(bool akAbRemoveInventory = true, bool akAbRealJail = t
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Faction Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

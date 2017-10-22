@@ -1,4 +1,4 @@
-'''F4SE Member of:''' [[Actor Script]]
+'''Member of:''' [[Actor Script]]
 
 Placeholder Description.
 
@@ -26,8 +26,8 @@ EndStruct
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Actor Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
-[[Category: F4SE]]
+

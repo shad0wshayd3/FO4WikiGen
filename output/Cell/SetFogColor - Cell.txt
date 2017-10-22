@@ -21,7 +21,8 @@ Function SetFogColor(int akAiNearRed, int akAiNearGreen, int akAiNearBlue)
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Cell Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

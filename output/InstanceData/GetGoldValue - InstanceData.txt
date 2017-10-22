@@ -1,4 +1,4 @@
-'''F4SE Member of:''' [[InstanceData Script]]
+'''Member of:''' [[InstanceData Script]]
 
 Placeholder Description.
 
@@ -19,8 +19,8 @@ int Function GetGoldValue(Owner akOwner) Native Global
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[InstanceData Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
-[[Category: F4SE]]
+

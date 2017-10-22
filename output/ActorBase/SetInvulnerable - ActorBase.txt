@@ -19,7 +19,8 @@ Function SetInvulnerable(bool akAbInvulnerable = true) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ActorBase Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

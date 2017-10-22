@@ -19,7 +19,8 @@ Function AddRefCollection(RefCollectionAlias akRefCollectionAliasToAdd)
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[RefCollectionAlias Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

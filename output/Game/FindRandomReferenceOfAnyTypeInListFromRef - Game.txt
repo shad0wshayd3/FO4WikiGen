@@ -21,7 +21,8 @@ ObjectReference Function FindRandomReferenceOfAnyTypeInListFromRef(FormList akAr
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Game Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

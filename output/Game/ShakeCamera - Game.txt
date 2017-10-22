@@ -21,7 +21,8 @@ Function ShakeCamera(ObjectReference akSource = None, float akAfStrength = 0.5, 
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Game Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

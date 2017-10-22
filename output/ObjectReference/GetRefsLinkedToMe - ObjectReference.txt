@@ -20,7 +20,8 @@ ObjectReference[] Function GetRefsLinkedToMe( akKeyword = =, Keyword akApExclude
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ObjectReference Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

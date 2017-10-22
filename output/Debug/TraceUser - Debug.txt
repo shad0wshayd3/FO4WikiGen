@@ -21,7 +21,8 @@ bool Function TraceUser(string akAsUserLog, string akAsTextToPrint, int akAiSeve
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Debug Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

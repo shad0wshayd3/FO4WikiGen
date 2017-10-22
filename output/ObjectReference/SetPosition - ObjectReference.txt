@@ -21,7 +21,8 @@ Function SetPosition(float akAfX, float akAfY, float akAfZ) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ObjectReference Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

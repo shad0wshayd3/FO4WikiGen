@@ -20,7 +20,8 @@ Function IncrementSkill(ActorValue akActorValue, int akAiCount = 1) Native Globa
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Game Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

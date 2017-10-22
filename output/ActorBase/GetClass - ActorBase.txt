@@ -19,7 +19,8 @@ Class Function GetClass() Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ActorBase Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

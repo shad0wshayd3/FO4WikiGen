@@ -20,7 +20,8 @@ Function PlayerPayCrimeGold(bool akAbRemoveStolenItems = true, bool akAbGoToJail
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Faction Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

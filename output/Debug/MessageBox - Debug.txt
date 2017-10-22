@@ -19,7 +19,8 @@ Function MessageBox(string akAsMessageBoxText) Native Global
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Debug Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

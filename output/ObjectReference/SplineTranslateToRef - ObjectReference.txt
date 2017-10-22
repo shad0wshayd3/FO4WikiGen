@@ -22,7 +22,8 @@ Function SplineTranslateToRef(ObjectReference akArTarget, float akAfTangentMagni
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ObjectReference Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

@@ -19,7 +19,8 @@ bool Function IsEssential() Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ActorBase Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

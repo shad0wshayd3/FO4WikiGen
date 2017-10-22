@@ -20,7 +20,8 @@ Function RemoveAllItems(ObjectReference akTransferTo = None, bool akAbKeepOwners
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ObjectReference Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

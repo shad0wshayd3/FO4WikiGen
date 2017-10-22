@@ -20,7 +20,8 @@ Var Function CallFunction(string akAsFuncName, Var[] akAParams) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ScriptObject Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

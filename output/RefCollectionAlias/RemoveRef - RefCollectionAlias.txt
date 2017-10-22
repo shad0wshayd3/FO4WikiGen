@@ -19,7 +19,8 @@ Function RemoveRef(ObjectReference akRemoveRef) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[RefCollectionAlias Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

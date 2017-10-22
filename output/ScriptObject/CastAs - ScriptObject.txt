@@ -19,7 +19,8 @@ ScriptObject Function CastAs(string akAsScriptName) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ScriptObject Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

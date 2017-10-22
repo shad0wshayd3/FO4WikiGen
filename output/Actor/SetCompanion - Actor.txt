@@ -20,7 +20,8 @@ Function SetCompanion(bool abSetCompanion = true, bool abFillCompanionAlias = tr
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Actor Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

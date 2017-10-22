@@ -20,7 +20,8 @@ Function DisableLinkChain(Keyword akApKeyword = None, bool akAbFadeOut = false) 
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ObjectReference Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

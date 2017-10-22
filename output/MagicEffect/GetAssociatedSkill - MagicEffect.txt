@@ -19,7 +19,8 @@ string Function GetAssociatedSkill() Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[MagicEffect Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

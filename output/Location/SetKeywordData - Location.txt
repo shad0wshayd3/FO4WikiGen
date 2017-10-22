@@ -20,7 +20,8 @@ Function SetKeywordData(Keyword akKeyword, float akAfData) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Location Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

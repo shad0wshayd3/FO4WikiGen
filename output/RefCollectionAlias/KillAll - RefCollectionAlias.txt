@@ -19,7 +19,8 @@ Function KillAll(actor akKiller = NONE)
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[RefCollectionAlias Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

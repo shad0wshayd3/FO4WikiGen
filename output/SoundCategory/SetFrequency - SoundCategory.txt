@@ -19,7 +19,8 @@ Function SetFrequency(float akAfFrequencyCoeffecient) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[SoundCategory Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

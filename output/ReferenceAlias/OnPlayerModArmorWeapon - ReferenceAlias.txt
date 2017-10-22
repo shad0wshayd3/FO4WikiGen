@@ -17,8 +17,9 @@ Event OnPlayerModArmorWeapon(Form akBaseObject, ObjectMod akModBaseObject)
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ReferenceAlias Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
 [[Category: Events]]
+

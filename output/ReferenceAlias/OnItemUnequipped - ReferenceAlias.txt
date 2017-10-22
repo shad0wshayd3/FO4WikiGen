@@ -17,8 +17,9 @@ Event OnItemUnequipped(Form akBaseObject, ObjectReference akReference)
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ReferenceAlias Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
 [[Category: Events]]
+

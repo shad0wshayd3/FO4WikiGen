@@ -19,7 +19,8 @@ Function Pause() Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[SoundCategory Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

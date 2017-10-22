@@ -22,7 +22,8 @@ Function UnregisterForHitEvent(ScriptObject akTarget, ScriptObject akAggressorFi
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ScriptObject Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

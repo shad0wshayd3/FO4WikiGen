@@ -21,7 +21,8 @@ Function Play(ObjectReference akObject, float akAfTime = -1.0, ObjectReference a
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[VisualEffect Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

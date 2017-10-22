@@ -28,7 +28,8 @@ Location Function OpenWorkshopSettlementMenuEx(Keyword akActionKW, Message akAst
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ObjectReference Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

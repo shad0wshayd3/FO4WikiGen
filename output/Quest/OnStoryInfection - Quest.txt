@@ -17,8 +17,9 @@ Event OnStoryInfection(ObjectReference akTransmittingActor, Form akInfection)
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Quest Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
 [[Category: Events]]
+

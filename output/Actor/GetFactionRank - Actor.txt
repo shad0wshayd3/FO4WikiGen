@@ -19,7 +19,8 @@ int Function GetFactionRank(Faction akFaction) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Actor Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

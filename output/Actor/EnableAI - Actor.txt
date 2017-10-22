@@ -20,7 +20,8 @@ Function EnableAI(bool akAbEnable = true, bool akAbPauseVoice = false) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Actor Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

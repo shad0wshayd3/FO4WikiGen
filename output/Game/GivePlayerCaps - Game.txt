@@ -19,7 +19,8 @@ Function GivePlayerCaps(int aiNCaps) Global
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Game Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

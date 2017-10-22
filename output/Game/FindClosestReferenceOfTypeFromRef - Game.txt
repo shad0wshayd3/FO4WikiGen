@@ -21,7 +21,8 @@ ObjectReference Function FindClosestReferenceOfTypeFromRef(Form akArBaseObject, 
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Game Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

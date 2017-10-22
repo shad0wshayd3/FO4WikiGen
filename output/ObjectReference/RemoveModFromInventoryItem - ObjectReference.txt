@@ -20,7 +20,8 @@ Function RemoveModFromInventoryItem(Form akItem, ObjectMod akMod) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ObjectReference Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

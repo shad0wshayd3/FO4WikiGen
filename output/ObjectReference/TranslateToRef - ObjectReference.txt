@@ -21,7 +21,8 @@ Function TranslateToRef(ObjectReference akArTarget, float akAfSpeed, float akAfM
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ObjectReference Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

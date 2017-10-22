@@ -19,7 +19,8 @@ Function LearnEffect(int akAiIndex) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Ingredient Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

@@ -18,8 +18,9 @@ Event OnCommandModeGiveCommand(ObjectReference akSenderRef, int aiAeCommand, Obj
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[RefCollectionAlias Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
 [[Category: Events]]
+

@@ -19,7 +19,8 @@ bool Function IsPluginInstalled(string akAsName) Native Global
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Game Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

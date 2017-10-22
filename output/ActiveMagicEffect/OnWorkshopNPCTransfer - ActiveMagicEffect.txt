@@ -17,8 +17,9 @@ Event OnWorkshopNPCTransfer(Location akNewWorkshop, Keyword akActionKW)
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ActiveMagicEffect Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
 [[Category: Events]]
+

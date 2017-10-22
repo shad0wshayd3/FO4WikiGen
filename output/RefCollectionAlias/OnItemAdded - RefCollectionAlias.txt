@@ -20,8 +20,9 @@ Event OnItemAdded(ObjectReference akSenderRef, Form akBaseItem, int akAiItemCoun
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[RefCollectionAlias Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
 [[Category: Events]]
+

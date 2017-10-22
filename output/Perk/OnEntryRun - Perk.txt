@@ -18,8 +18,9 @@ Event OnEntryRun(int aiAuiEntryID, ObjectReference akTarget, Actor akOwner)
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Perk Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
 [[Category: Events]]
+

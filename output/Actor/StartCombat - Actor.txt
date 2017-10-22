@@ -20,7 +20,8 @@ Function StartCombat(Actor akTarget, bool akAbPreferredTarget = false) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Actor Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

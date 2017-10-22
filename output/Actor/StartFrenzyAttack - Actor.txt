@@ -20,7 +20,8 @@ Function StartFrenzyAttack(float afAChance = 0.1, float afAInterval = 0.5) Nativ
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Actor Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

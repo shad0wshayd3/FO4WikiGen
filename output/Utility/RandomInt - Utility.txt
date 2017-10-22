@@ -20,7 +20,8 @@ int Function RandomInt(int akAiMin = 0, int akAiMax = 100) Native Global
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Utility Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

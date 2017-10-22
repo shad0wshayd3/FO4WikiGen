@@ -20,7 +20,8 @@ bool Function PlayIdleWithTarget(Idle akIdle, ObjectReference akTarget) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Actor Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

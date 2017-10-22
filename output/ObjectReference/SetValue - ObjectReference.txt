@@ -20,7 +20,8 @@ Function SetValue(ActorValue akAV, float akAfValue) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ObjectReference Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

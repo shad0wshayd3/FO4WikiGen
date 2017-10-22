@@ -20,7 +20,8 @@ Function RegisterForTrackedStatsEvent(string akAsStat, int akAiThreshold) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ScriptObject Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

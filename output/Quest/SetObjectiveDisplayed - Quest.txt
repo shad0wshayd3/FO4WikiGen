@@ -21,7 +21,8 @@ Function SetObjectiveDisplayed(int akAiObjective, bool akAbDisplayed = true, boo
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Quest Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

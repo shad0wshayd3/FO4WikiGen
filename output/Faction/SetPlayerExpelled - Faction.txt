@@ -19,7 +19,8 @@ Function SetPlayerExpelled(bool akAbIsExpelled = true) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Faction Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

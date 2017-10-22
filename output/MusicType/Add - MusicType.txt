@@ -19,7 +19,8 @@ Function Add() Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[MusicType Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

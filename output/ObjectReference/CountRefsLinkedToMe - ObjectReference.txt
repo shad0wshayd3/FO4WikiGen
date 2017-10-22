@@ -20,7 +20,8 @@ int Function CountRefsLinkedToMe( akKeyword = =, Keyword akApExcludeKeyword = No
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ObjectReference Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

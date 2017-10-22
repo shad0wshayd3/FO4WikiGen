@@ -1,4 +1,4 @@
-'''F4SE Member of:''' [[Math Script]]
+'''Member of:''' [[Math Script]]
 
 Placeholder Description.
 
@@ -19,8 +19,8 @@ float Function Log(float afArg1) Native Global
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Math Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
-[[Category: F4SE]]
+

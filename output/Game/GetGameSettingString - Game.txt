@@ -19,7 +19,8 @@ string Function GetGameSettingString(string akAsGameSetting) Native Global
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Game Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

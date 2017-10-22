@@ -18,8 +18,9 @@ Event OnHolotapeChatter( akObjectReference, string akAstrChatter, float akAfNume
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[RefCollectionAlias Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
 [[Category: Events]]
+

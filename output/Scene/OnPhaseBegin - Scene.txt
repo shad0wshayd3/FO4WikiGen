@@ -16,8 +16,9 @@ Event OnPhaseBegin(int aiAuiPhaseIndex)
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Scene Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
 [[Category: Events]]
+

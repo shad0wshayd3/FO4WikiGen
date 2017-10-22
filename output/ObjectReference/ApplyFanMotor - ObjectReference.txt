@@ -24,7 +24,8 @@ Function ApplyFanMotor( akString, float afAAxisX, float afAAxisY, float afAAxisZ
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ObjectReference Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

@@ -17,8 +17,9 @@ Event OnPartialCripple(ActorValue akActorValue, bool akAbCrippled)
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ActiveMagicEffect Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
 [[Category: Events]]
+

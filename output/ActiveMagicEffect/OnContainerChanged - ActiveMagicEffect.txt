@@ -17,8 +17,9 @@ Event OnContainerChanged(ObjectReference akNewContainer, ObjectReference akOldCo
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ActiveMagicEffect Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
 [[Category: Events]]
+

@@ -20,7 +20,8 @@ Function Fire(ObjectReference akSource, Ammo akAmmo = None) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Weapon Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

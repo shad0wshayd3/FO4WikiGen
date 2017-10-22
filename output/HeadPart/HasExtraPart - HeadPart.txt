@@ -1,4 +1,4 @@
-'''F4SE Member of:''' [[HeadPart Script]]
+'''Member of:''' [[HeadPart Script]]
 
 Placeholder Description.
 
@@ -19,8 +19,8 @@ bool Function HasExtraPart(HeadPart akP) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[HeadPart Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
-[[Category: F4SE]]
+

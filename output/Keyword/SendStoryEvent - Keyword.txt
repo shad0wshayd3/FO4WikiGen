@@ -22,7 +22,8 @@ Function SendStoryEvent(Location akLoc = None, ObjectReference akRef1 = None, Ob
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Keyword Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

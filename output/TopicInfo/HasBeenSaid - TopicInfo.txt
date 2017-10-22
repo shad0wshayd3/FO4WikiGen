@@ -19,7 +19,8 @@ bool Function HasBeenSaid() Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[TopicInfo Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

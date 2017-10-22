@@ -23,7 +23,8 @@ ObjectReference Function PlaceAtMe(Form akFormToPlace, int akAiCount = 1, bool a
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ObjectReference Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

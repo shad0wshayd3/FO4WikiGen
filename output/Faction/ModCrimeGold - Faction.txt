@@ -20,7 +20,8 @@ Function ModCrimeGold(int akAiAmount, bool akAbViolent = false) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Faction Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

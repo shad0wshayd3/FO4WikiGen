@@ -21,7 +21,8 @@ Function EquipItem(Form akItem, bool akAbPreventRemoval = false, bool akAbSilent
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Actor Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

@@ -19,7 +19,8 @@ Quest Function GetOwningQuest() Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[TopicInfo Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

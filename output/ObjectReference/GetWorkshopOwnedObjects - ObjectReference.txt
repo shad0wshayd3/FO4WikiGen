@@ -19,7 +19,8 @@ ObjectReference[] Function GetWorkshopOwnedObjects(Actor akActor) Native
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[ObjectReference Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

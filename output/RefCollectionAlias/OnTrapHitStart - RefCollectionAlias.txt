@@ -22,8 +22,9 @@ Event OnTrapHitStart(ObjectReference akSenderRef, ObjectReference akTarget, floa
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[RefCollectionAlias Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
 [[Category: Events]]
+

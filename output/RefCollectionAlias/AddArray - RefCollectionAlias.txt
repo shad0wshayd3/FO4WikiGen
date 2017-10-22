@@ -19,7 +19,8 @@ Function AddArray(ObjectReference[] akRefArrayToAdd)
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[RefCollectionAlias Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+

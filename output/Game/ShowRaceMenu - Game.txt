@@ -23,7 +23,8 @@ Function ShowRaceMenu( akObjectReference = =, int aiUiMode = 0, ObjectReference 
 </source>
 
 == See Also ==
-*[[Placeholder Thing]]
+*[[Game Script]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
+
