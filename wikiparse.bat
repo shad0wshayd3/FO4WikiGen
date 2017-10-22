@@ -1,1 +1,1 @@
-python WikiParse.py > output.txt
+python WikiParse.py

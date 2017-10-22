@@ -90,7 +90,7 @@ class memberFunction:
             print(f'== Examples ==\n<source lang="papyrus">\n; Placeholder Code.\n</source>\n', file=outfile)
             print(f"== See Also ==\n*[[{self.parent} Script]]\n", file=outfile)
 
-            print(f"[[Category: Scripting]]\n[[Category: Papyrus]]{'\n[[Category: F4SE]]' if isF4SE else ''}", file=outfile)
+            print(f"[[Category: Scripting]]\n[[Category: Papyrus]]\n{'[[Category: F4SE]]' if isF4SE else ''}", file=outfile)
 
 class memberEvent(memberFunction):
     def __init__(self, asParent = "", asName = "", asArgs = ""):
@@ -124,7 +124,7 @@ class memberEvent(memberFunction):
             print(f'\n== Examples ==\n<source lang="papyrus">\n; Placeholder Code.\n</source>\n', file=outfile)
             print(f"== See Also ==\n*[[{self.parent} Script]]\n", file=outfile)
 
-            print(f"[[Category: Scripting]]\n[[Category: Papyrus]]\n[[Category: Events]]{'\n[[Category: F4SE]]' if isF4SE else ''}", file=outfile)
+            print(f"[[Category: Scripting]]\n[[Category: Papyrus]]\n[[Category: Events]]\n{'[[Category: F4SE]]' if isF4SE else ''}", file=outfile)
 
 class memberStruct:
     def __init__(self, asParent = "", asName = "", asArgs = ""):
@@ -174,7 +174,7 @@ class memberStruct:
             print(f'\n== Examples ==\n<source lang="papyrus">\n; Placeholder Code.\n</source>\n', file=outfile)
             print(f"== See Also ==\n*[[{self.parent} Script]]\n", file=outfile)
 
-            print(f"[[Category: Scripting]]\n[[Category: Papyrus]]{'\n[[Category: F4SE]]' if isF4SE else ''}", file=outfile)
+            print(f"[[Category: Scripting]]\n[[Category: Papyrus]]\n{'[[Category: F4SE]]' if isF4SE else ''}", file=outfile)
 
 def checkfordir(dirName):
     if not os.path.isdir(dirName):
