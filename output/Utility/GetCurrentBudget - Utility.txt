@@ -1,0 +1,26 @@
+'''Member of:''' [[Utility Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+string Function GetCurrentBudget(int akAiBudgetNumber) Native Global debugOnly
+</source>
+
+== Parameters ==
+*akAiBudgetNumber: Placeholder Description.
+
+== Return Value ==
+*Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Utility Script]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]
+

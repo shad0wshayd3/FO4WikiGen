@@ -1,0 +1,26 @@
+'''Member of:''' [[Actor Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+bool Function CanMoveVertical() Native debugOnly
+</source>
+
+== Parameters ==
+*None
+
+== Return Value ==
+*Placeholder Description.
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Actor Script]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]
+

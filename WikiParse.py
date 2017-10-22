@@ -4,16 +4,17 @@ TopLevel = "import"
 TypeLeads = [["bool", "ab"], ["float", "af"], ["int", "ai"], ["string", "as"], ["var", "av"], ["", "ak"]]
 F4SEReqText, F4SEHighText, F4SEAltText = "\nRequires F4SE Version", "or higher.\n\n\n", "\n"
 
-isF4SE = True
+isF4SE = False
 
 class memberFunction:
-    def __init__(self, asParent = "", asType = "", asName = "", asArgs = "", isNative = False, isGlobal = False):
+    def __init__(self, asParent = "", asType = "", asName = "", asArgs = "", isNative = False, isGlobal = False, isDebug = False):
         self.SetParent(asParent)
         self.SetType(asType)
         self.SetName(asName)
         self.SetArgs(asArgs)
         self.isNative = isNative
         self.isGlobal = isGlobal
+        self.isDebug = isDebug
 
     def SetParent(self, asParent):
         self.parent = asParent
@@ -64,7 +65,7 @@ class memberFunction:
         self.args = formattedArgs
 
     def CodePrint(self):
-        base = f"{self.type}Function {self.name}({self.args}){' Native' if self.isNative else ''}{' Global' if self.isGlobal else ''}"
+        base = f"{self.type}Function {self.name}({self.args}){' Native' if self.isNative else ''}{' Global' if self.isGlobal else ''}{' debugOnly' if self.isDebug else ''}"
         return base
 
     def MakePage(self):
@@ -202,6 +203,9 @@ def getversionstring(asFunction):
             if (line.find(asFunction) == 0):
                 versionHunting = True
 
+    else:
+        return ""
+
 if __name__ == "__main__":
     checkfordir("output")
     checkfordir("import")
@@ -240,8 +244,8 @@ if __name__ == "__main__":
                         funName = line[line.lower().find("function ") + len("function "):line.find("(")]
                         funArgs = line[line.find("(")+1:line.find(")")]
 
-                        if not isDebugOnly:
-                            newFunc = memberFunction(name[:len(name)-4], typeName, funName, funArgs, isNative, isGlobal)
+                        if not (isDebugOnly and isF4SE):
+                            newFunc = memberFunction(name[:len(name)-4], typeName, funName, funArgs, isNative, isGlobal, isDebugOnly)
                             newFunc.MakePage()
 
                         endFound = False

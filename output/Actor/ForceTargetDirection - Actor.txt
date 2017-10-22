@@ -1,0 +1,28 @@
+'''Member of:''' [[Actor Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function ForceTargetDirection(float akAfXAngle = 0.0, float akAfYAngle = 0.0, float akAfZAngle = 0.0) Native debugOnly
+</source>
+
+== Parameters ==
+*akAfXAngle: Placeholder Description.
+*akAfYAngle: Placeholder Description.
+*akAfZAngle: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Actor Script]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]
+

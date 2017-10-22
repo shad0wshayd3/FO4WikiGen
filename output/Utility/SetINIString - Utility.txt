@@ -1,0 +1,27 @@
+'''Member of:''' [[Utility Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function SetINIString(string asIni, string asValue) Native Global debugOnly
+</source>
+
+== Parameters ==
+*asIni: Placeholder Description.
+*asValue: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Utility Script]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]
+

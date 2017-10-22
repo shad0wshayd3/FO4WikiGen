@@ -1,0 +1,26 @@
+'''Member of:''' [[ActiveMagicEffect Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function StopObjectProfiling() Native debugOnly
+</source>
+
+== Parameters ==
+*None
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[ActiveMagicEffect Script]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]
+

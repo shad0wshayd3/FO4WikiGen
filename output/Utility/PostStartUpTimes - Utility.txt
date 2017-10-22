@@ -1,0 +1,26 @@
+'''Member of:''' [[Utility Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function PostStartUpTimes() Native Global debugOnly
+</source>
+
+== Parameters ==
+*None
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Utility Script]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]
+

@@ -1,0 +1,30 @@
+'''Member of:''' [[Utility Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function EnterTestData(string akAstestType, string akAstestMatter, string akAstestDetails, string akAstestResultContext, string akAstestResult) Native Global debugOnly
+</source>
+
+== Parameters ==
+*akAstestType: Placeholder Description.
+*akAstestMatter: Placeholder Description.
+*akAstestDetails: Placeholder Description.
+*akAstestResultContext: Placeholder Description.
+*akAstestResult: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Utility Script]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]
+

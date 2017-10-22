@@ -1,0 +1,26 @@
+'''Member of:''' [[Actor Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function ForceMovementSpeed(float akAfSpeedMult) Native debugOnly
+</source>
+
+== Parameters ==
+*akAfSpeedMult: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Actor Script]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]
+

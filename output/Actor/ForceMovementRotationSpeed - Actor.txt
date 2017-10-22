@@ -1,0 +1,28 @@
+'''Member of:''' [[Actor Script]]
+
+Placeholder Description.
+
+== Syntax ==
+<source lang="papyrus">
+Function ForceMovementRotationSpeed(float akAfXMult = 0.0, float akAfYMult = 0.0, float akAfZMult = 0.0) Native debugOnly
+</source>
+
+== Parameters ==
+*akAfXMult: Placeholder Description.
+*akAfYMult: Placeholder Description.
+*akAfZMult: Placeholder Description.
+
+== Return Value ==
+*None
+
+== Examples ==
+<source lang="papyrus">
+; Placeholder Code.
+</source>
+
+== See Also ==
+*[[Actor Script]]
+
+[[Category: Scripting]]
+[[Category: Papyrus]]
+
