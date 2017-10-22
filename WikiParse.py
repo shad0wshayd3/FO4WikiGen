@@ -3,6 +3,8 @@ import os
 TopLevel = "import"
 TypeLeads = [["bool", "ab"], ["float", "af"], ["int", "ai"], ["string", "as"], ["var", "av"], ["", "ak"]]
 
+isF4SE = False
+
 class memberFunction:
     def __init__(self, asParent = "", asType = "", asName = "", asArgs = "", isNative = False, isGlobal = False):
         self.SetParent(asParent)
@@ -67,8 +69,7 @@ class memberFunction:
     def MakePage(self):
         checkfordir(f"output/{self.parent}")
         with open(f"output//{self.parent}//{self.name} - {self.parent}.txt", "w") as outfile:
-            print(f"'''F4SE Member of:''' [[{self.parent} Script]]\n\nPlaceholder Description.\n", file=outfile)
-            # print(f"'''Member of:''' [[{self.parent} Script]]\n\nPlaceholder Description.\n", file=outfile)
+            print(f"'''{'F4SE ' if isF4SE else ''}Member of:''' [[{self.parent} Script]]\n\nPlaceholder Description.\n", file=outfile)
             print(f'== Syntax ==\n<source lang="papyrus">\n{self.CodePrint()}\n</source>\n', file=outfile)
             print(f"== Parameters ==", file=outfile)
 
@@ -87,10 +88,9 @@ class memberFunction:
             print(f"\n== Return Value ==\n*{'Placeholder Description.' if len(self.type) > 0 else 'None'}\n", file=outfile)
 
             print(f'== Examples ==\n<source lang="papyrus">\n; Placeholder Code.\n</source>\n', file=outfile)
-            print(f"== See Also ==\n*[[Placeholder Thing]]\n", file=outfile)
+            print(f"== See Also ==\n*[[{self.parent} Script]]\n", file=outfile)
 
-            print(f"[[Category: Scripting]]\n[[Category: Papyrus]]\n[[Category: F4SE]]", file=outfile)
-            # print(f"[[Category: Scripting]]\n[[Category: Papyrus]]", file=outfile)
+            print(f"[[Category: Scripting]]\n[[Category: Papyrus]]{'\n[[Category: F4SE]]' if isF4SE else ''}", file=outfile)
 
 class memberEvent(memberFunction):
     def __init__(self, asParent = "", asName = "", asArgs = ""):
@@ -105,8 +105,7 @@ class memberEvent(memberFunction):
     def MakePage(self):
         checkfordir(f"output/{self.parent}")
         with open(f"output//{self.parent}//{self.name} - {self.parent}.txt", "w") as outfile:
-            print(f"'''F4SE Member of:''' [[{self.parent} Script]]\n\nPlaceholder Description.\n", file=outfile)
-            # print(f"'''Member of:''' [[{self.parent} Script]]\n\nPlaceholder Description.\n", file=outfile)
+            print(f"'''{'F4SE ' if isF4SE else ''}Member of:''' [[{self.parent} Script]]\n\nPlaceholder Description.\n", file=outfile)
             print(f'== Syntax ==\n<source lang="papyrus">\n{self.CodePrint()}\n</source>\n', file=outfile)
             print(f"== Parameters ==", file=outfile)
 
@@ -123,10 +122,9 @@ class memberEvent(memberFunction):
                 print("*None", file=outfile)
 
             print(f'\n== Examples ==\n<source lang="papyrus">\n; Placeholder Code.\n</source>\n', file=outfile)
-            print(f"== See Also ==\n*[[Placeholder Thing]]\n", file=outfile)
+            print(f"== See Also ==\n*[[{self.parent} Script]]\n", file=outfile)
 
-            print(f"[[Category: Scripting]]\n[[Category: Papyrus]]\n[[Category: Events]]\n[[Category: F4SE]]", file=outfile)
-            # print(f"[[Category: Scripting]]\n[[Category: Papyrus]]\n[[Category: Events]]", file=outfile)
+            print(f"[[Category: Scripting]]\n[[Category: Papyrus]]\n[[Category: Events]]{'\n[[Category: F4SE]]' if isF4SE else ''}", file=outfile)
 
 class memberStruct:
     def __init__(self, asParent = "", asName = "", asArgs = ""):
@@ -163,8 +161,7 @@ class memberStruct:
     def MakePage(self):
         checkfordir(f"output/{self.parent}")
         with open(f"output//{self.parent}//{self.name} Struct - {self.parent}.txt", "w") as outfile:
-            print(f"'''F4SE Member of:''' [[{self.parent} Script]]\n\nPlaceholder Description.\n", file=outfile)
-            # print(f"'''Member of:''' [[{self.parent} Script]]\n\nPlaceholder Description.\n", file=outfile)
+            print(f"'''{'F4SE ' if isF4SE else ''}Member of:''' [[{self.parent} Script]]\n\nPlaceholder Description.\n", file=outfile)
             print(f'== Syntax ==\n<source lang="papyrus">\n{self.CodePrint()}\n</source>\n', file=outfile)
             print(f"== Members ==", file=outfile)
 
@@ -175,10 +172,9 @@ class memberStruct:
                     print(f"*{name[5]}: Placeholder Description.", file=outfile)
 
             print(f'\n== Examples ==\n<source lang="papyrus">\n; Placeholder Code.\n</source>\n', file=outfile)
-            print(f"== See Also ==\n*[[Placeholder Thing]]\n", file=outfile)
+            print(f"== See Also ==\n*[[{self.parent} Script]]\n", file=outfile)
 
-            print(f"[[Category: Scripting]]\n[[Category: Papyrus]]\n[[Category: F4SE]]", file=outfile)
-            # print(f"[[Category: Scripting]]\n[[Category: Papyrus]]", file=outfile)
+            print(f"[[Category: Scripting]]\n[[Category: Papyrus]]{'\n[[Category: F4SE]]' if isF4SE else ''}", file=outfile)
 
 def checkfordir(dirName):
     if not os.path.isdir(dirName):
