@@ -1,7 +1,6 @@
 '''F4SE Member of:''' [[InstanceData Script]]
 
-
-Requires F4SE Version 0.3.0 or higher.
+Requires F4SE Version 0.3.1 or higher.
 
 
 Placeholder Description.

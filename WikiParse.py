@@ -2,7 +2,7 @@ import os
 
 TopLevel = "import"
 TypeLeads = [["bool", "ab"], ["float", "af"], ["int", "ai"], ["string", "as"], ["var", "av"], ["", "ak"]]
-F4SEReqText, F4SEAltText = "\nRequires F4SE Version 0.3.0 or higher.\n\n\n", "\n"
+F4SEReqText, F4SEHighText, F4SEAltText = "\nRequires F4SE Version", "or higher.\n\n\n", "\n"
 
 isF4SE = True
 
@@ -71,7 +71,8 @@ class memberFunction:
         checkfordir(f"output/{self.parent}")
         with open(f"output//{self.parent}//{self.name} - {self.parent}.txt", "w") as outfile:
             print(f"'''{'F4SE ' if isF4SE else ''}Member of:''' [[{self.parent} Script]]", file=outfile)
-            print(f"{F4SEReqText if isF4SE else F4SEAltText}Placeholder Description.\n", file=outfile)
+            F4SEText = F4SEReqText + getversionstring(self.name + " - " + self.parent) + F4SEHighText
+            print(f"{F4SEText if isF4SE else F4SEAltText}Placeholder Description.\n", file=outfile)
             print(f'== Syntax ==\n<source lang="papyrus">\n{self.CodePrint()}\n</source>\n', file=outfile)
             print(f"== Parameters ==", file=outfile)
 
@@ -107,8 +108,9 @@ class memberEvent(memberFunction):
     def MakePage(self):
         checkfordir(f"output/{self.parent}")
         with open(f"output//{self.parent}//{self.name} - {self.parent}.txt", "w") as outfile:
-            print(f"'''{'F4SE ' if isF4SE else ''}Member of:''' [[{self.parent} Script]]\n", file=outfile)
-            print(f"{F4SEReqText if isF4SE else F4SEAltText}Placeholder Description.\n", file=outfile)
+            print(f"'''{'F4SE ' if isF4SE else ''}Member of:''' [[{self.parent} Script]]", file=outfile)
+            F4SEText = F4SEReqText + getversionstring(self.name + " - " + self.parent) + F4SEHighText
+            print(f"{F4SEText if isF4SE else F4SEAltText}Placeholder Description.\n", file=outfile)
             print(f'== Syntax ==\n<source lang="papyrus">\n{self.CodePrint()}\n</source>\n', file=outfile)
             print(f"== Parameters ==", file=outfile)
 
@@ -164,8 +166,9 @@ class memberStruct:
     def MakePage(self):
         checkfordir(f"output/{self.parent}")
         with open(f"output//{self.parent}//{self.name} Struct - {self.parent}.txt", "w") as outfile:
-            print(f"'''{'F4SE ' if isF4SE else ''}Member of:''' [[{self.parent} Script]]\n", file=outfile)
-            print(f"{F4SEReqText if isF4SE else F4SEAltText}Placeholder Description.\n", file=outfile)
+            print(f"'''{'F4SE ' if isF4SE else ''}Member of:''' [[{self.parent} Script]]", file=outfile)
+            F4SEText = F4SEReqText + getversionstring(self.name + " - " + self.parent) + F4SEHighText
+            print(f"{F4SEText if isF4SE else F4SEAltText}Placeholder Description.\n", file=outfile)
             print(f'== Syntax ==\n<source lang="papyrus">\n{self.CodePrint()}\n</source>\n', file=outfile)
             print(f"== Members ==", file=outfile)
 
@@ -183,6 +186,21 @@ class memberStruct:
 def checkfordir(dirName):
     if not os.path.isdir(dirName):
         os.makedirs(dirName)
+
+def getversionstring(asFunction):
+    if isF4SE:
+        versionHunting = False
+
+        with open("data/f4se/version.txt", "r") as infile:
+            lines = infile.readlines()
+
+        for line in lines:
+            if versionHunting:
+                if (line.find("F4SEVERSION|") == 0):
+                    return " " + line[12:].strip("\n") + " "
+
+            if (line.find(asFunction) == 0):
+                versionHunting = True
 
 if __name__ == "__main__":
     checkfordir("output")

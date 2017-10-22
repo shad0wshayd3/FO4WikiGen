@@ -1,6 +1,6 @@
 '''F4SE Member of:''' [[ObjectReference Script]]
 
-Requires F4SE Version 0.3.0 or higher.
+Requires F4SE Version 0.3.2 or higher.
 
 
 Placeholder Description.
