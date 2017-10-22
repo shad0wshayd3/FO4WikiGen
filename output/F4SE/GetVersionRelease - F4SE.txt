@@ -3,7 +3,7 @@
 Requires F4SE Version 0.2.0 or higher.
 
 
-Placeholder Description.
+Returns the release index of F4SE.
 
 == Syntax ==
 <source lang="papyrus">
@@ -14,16 +14,22 @@ int Function GetVersionRelease() Native Global
 *None
 
 == Return Value ==
-*Placeholder Description.
+*The release (0.0.0.'''0''') index of F4SE.
 
 == Examples ==
 <source lang="papyrus">
-; Placeholder Code.
+If (F4SE.GetVersionRelease < 2)
+    Debug.Notification("Your F4SE is out of date!")
+EndIf
 </source>
 
 == See Also ==
 *[[F4SE Script]]
+*[[GetVersion - F4SE]]
+*[[GetVersionMinor - F4SE]]
+*[[GetVersionBeta - F4SE]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
 [[Category: F4SE]]
+[[Category:Non-Delayed Native Functions]]

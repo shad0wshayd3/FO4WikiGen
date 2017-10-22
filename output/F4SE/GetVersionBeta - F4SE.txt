@@ -3,7 +3,7 @@
 Requires F4SE Version 0.2.0 or higher.
 
 
-Placeholder Description.
+Returns the beta release index of F4SE.
 
 == Syntax ==
 <source lang="papyrus">
@@ -14,16 +14,22 @@ int Function GetVersionBeta() Native Global
 *None
 
 == Return Value ==
-*Placeholder Description.
+*The beta (0.0.'''0'''.0) release index of F4SE.
 
 == Examples ==
 <source lang="papyrus">
-; Placeholder Code.
+If (F4SE.GetVersionBeta < 5)
+    Debug.Notification("Your F4SE is out of date!")
+EndIf
 </source>
 
 == See Also ==
 *[[F4SE Script]]
+*[[GetVersion - F4SE]]
+*[[GetVersionMinor - F4SE]]
+*[[GetVersionRelease - F4SE]]
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
 [[Category: F4SE]]
+[[Category:Non-Delayed Native Functions]]

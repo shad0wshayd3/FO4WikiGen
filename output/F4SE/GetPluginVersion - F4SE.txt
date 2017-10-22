@@ -3,7 +3,7 @@
 Requires F4SE Version 0.2.0 or higher.
 
 
-Placeholder Description.
+Returns the version of a currently installed F4SE plugin.
 
 == Syntax ==
 <source lang="papyrus">
@@ -11,14 +11,16 @@ int Function GetPluginVersion(string asName) Native Global
 </source>
 
 == Parameters ==
-*asName: Placeholder Description.
+*asName: The name of the F4SE to query.
 
 == Return Value ==
-*Placeholder Description.
+*The F4SE plugin's version, or -1 if it isn't loaded.
 
 == Examples ==
 <source lang="papyrus">
-; Placeholder Code.
+If (F4SE.GetPluginVersion("MyPlugin") == -1)
+    Debug.Messagebox("MyPlugin is missing, please reinstall the mod and try again!")
+EndIf
 </source>
 
 == See Also ==
@@ -27,3 +29,4 @@ int Function GetPluginVersion(string asName) Native Global
 [[Category: Scripting]]
 [[Category: Papyrus]]
 [[Category: F4SE]]
+[[Category:Non-Delayed Native Functions]]

@@ -3,7 +3,7 @@
 Requires F4SE Version 0.2.0 or higher.
 
 
-Placeholder Description.
+Returns the script release index of F4SE.
 
 == Syntax ==
 <source lang="papyrus">
@@ -14,11 +14,13 @@ int Function GetScriptVersionRelease() Global
 *None
 
 == Return Value ==
-*Placeholder Description.
+*The current script version of F4SE's scripts.
 
 == Examples ==
 <source lang="papyrus">
-; Placeholder Code.
+If (F4SE.GetScriptVersionRelease() > 6)
+    Debug.Notification("We support your installation of F4SE!")
+EndIf
 </source>
 
 == See Also ==

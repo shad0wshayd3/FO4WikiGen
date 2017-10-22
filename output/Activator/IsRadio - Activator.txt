@@ -1,6 +1,6 @@
 '''Member of:''' [[Activator Script]]
 
-Placeholder Description.
+Returns whether this Activator is a radio or not.
 
 == Syntax ==
 <source lang="papyrus">
@@ -11,11 +11,13 @@ bool Function IsRadio() Native
 *None
 
 == Return Value ==
-*Placeholder Description.
+*True if this Activator is a radio.
 
 == Examples ==
 <source lang="papyrus">
-; Placeholder Code.
+If myObject.IsRadio()
+    Debug.Trace("My object is a radio.")
+EndIf
 </source>
 
 == See Also ==
@@ -23,4 +25,4 @@ bool Function IsRadio() Native
 
 [[Category: Scripting]]
 [[Category: Papyrus]]
-
+[[Category: Non-Delayed Native Functions]]
