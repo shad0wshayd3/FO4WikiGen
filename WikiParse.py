@@ -2,6 +2,7 @@ import os
 
 TopLevel = "import"
 TypeLeads = [["bool", "ab"], ["float", "af"], ["int", "ai"], ["string", "as"], ["var", "av"], ["", "ak"]]
+F4SEReqText, F4SEAltText = "Requires F4SE Version '''0.3.0''' or higher.\n\n", "\n"
 
 isF4SE = True
 
@@ -69,7 +70,8 @@ class memberFunction:
     def MakePage(self):
         checkfordir(f"output/{self.parent}")
         with open(f"output//{self.parent}//{self.name} - {self.parent}.txt", "w") as outfile:
-            print(f"'''{'F4SE ' if isF4SE else ''}Member of:''' [[{self.parent} Script]]\n\nPlaceholder Description.\n", file=outfile)
+            print(f"'''{'F4SE ' if isF4SE else ''}Member of:''' [[{self.parent} Script]]\n", file=outfile)
+            print(f"{F4SEReqText if isF4SE else F4SEAltText}Placeholder Description.\n", file=outfile)
             print(f'== Syntax ==\n<source lang="papyrus">\n{self.CodePrint()}\n</source>\n', file=outfile)
             print(f"== Parameters ==", file=outfile)
 
@@ -105,7 +107,8 @@ class memberEvent(memberFunction):
     def MakePage(self):
         checkfordir(f"output/{self.parent}")
         with open(f"output//{self.parent}//{self.name} - {self.parent}.txt", "w") as outfile:
-            print(f"'''{'F4SE ' if isF4SE else ''}Member of:''' [[{self.parent} Script]]\n\nPlaceholder Description.\n", file=outfile)
+            print(f"'''{'F4SE ' if isF4SE else ''}Member of:''' [[{self.parent} Script]]\n", file=outfile)
+            print(f"{F4SEReqText if isF4SE else F4SEAltText}Placeholder Description.\n", file=outfile)
             print(f'== Syntax ==\n<source lang="papyrus">\n{self.CodePrint()}\n</source>\n', file=outfile)
             print(f"== Parameters ==", file=outfile)
 
@@ -161,7 +164,8 @@ class memberStruct:
     def MakePage(self):
         checkfordir(f"output/{self.parent}")
         with open(f"output//{self.parent}//{self.name} Struct - {self.parent}.txt", "w") as outfile:
-            print(f"'''{'F4SE ' if isF4SE else ''}Member of:''' [[{self.parent} Script]]\n\nPlaceholder Description.\n", file=outfile)
+            print(f"'''{'F4SE ' if isF4SE else ''}Member of:''' [[{self.parent} Script]]\n", file=outfile)
+            print(f"{F4SEReqText if isF4SE else F4SEAltText}Placeholder Description.\n", file=outfile)
             print(f'== Syntax ==\n<source lang="papyrus">\n{self.CodePrint()}\n</source>\n', file=outfile)
             print(f"== Members ==", file=outfile)
 

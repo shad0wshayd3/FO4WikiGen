@@ -1,5 +1,7 @@
 '''F4SE Member of:''' [[Utility Script]]
 
+Requires F4SE Version '''0.3.0''' or higher.
+
 Placeholder Description.
 
 == Syntax ==
