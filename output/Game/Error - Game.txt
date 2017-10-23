@@ -4,7 +4,7 @@ Placeholder Description.
 
 == Syntax ==
 <source lang="papyrus">
-Function Error(string akAsMessage) Native Global
+Function Error(string akAsMessage) Native Global betaOnly
 </source>
 
 == Parameters ==

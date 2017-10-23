@@ -4,7 +4,7 @@ Placeholder Description.
 
 == Syntax ==
 <source lang="papyrus">
-Function Warning(string akAsMessage) Native Global
+Function Warning(string akAsMessage) Native Global betaOnly
 </source>
 
 == Parameters ==
